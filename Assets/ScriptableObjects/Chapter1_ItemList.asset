@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac92056a5a3588c45bbc2024846f17aa, type: 3}
+  m_Name: Chapter1_ItemList
+  m_EditorClassIdentifier: 
+  items:
+  - image: {fileID: 21300000, guid: f86f2549fb0a5644692dff11b1cf336b, type: 3}
+    singularForm: die Natur
+    secondarySingularForm: 
+    pluralForm: 
+  - image: {fileID: 21300000, guid: 60172e88edf5e484ab5f868cfad22073, type: 3}
+    singularForm: der Transport
+    secondarySingularForm: 
+    pluralForm: die Transporte
+  - image: {fileID: 21300000, guid: 31d3e44a269cf714d9f10b0121ff2831, type: 3}
+    singularForm: das Opernhaus
+    secondarySingularForm: 
+    pluralForm: "die Opernh\xE4user"
