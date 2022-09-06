@@ -1,0 +1,385 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac92056a5a3588c45bbc2024846f17aa, type: 3}
+  m_Name: Chapter2-3_ItemList
+  m_EditorClassIdentifier: 
+  items:
+  - image: {fileID: 21300000, guid: 75269b1b78485824eac3824bd26c6f19, type: 3}
+    singularForm: die Klingel
+    secondarySingularForm: 
+    pluralForm: die Klingeln
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: e6d81b29f08cb5e46990d8293a799135, type: 3}
+    singularForm: das Paket
+    secondarySingularForm: 
+    pluralForm: die Pakete
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b35187198f188b648a0c0fb84861eb74, type: 3}
+    singularForm: der Absender
+    secondarySingularForm: die Absenderin
+    pluralForm: die Absender
+    secondaryPluralForm: die Absenderinnen
+  - image: {fileID: 21300000, guid: 8cac3ec9d599f3b4387c05545556cc6c, type: 3}
+    singularForm: "der Empf\xE4nger"
+    secondarySingularForm: "die Empf\xE4ngerin"
+    pluralForm: "die Empf\xE4nger"
+    secondaryPluralForm: "die Empf\xE4ngerinnen"
+  - image: {fileID: 21300000, guid: 28cacda4e5494ab4f86977d847bb0ea3, type: 3}
+    singularForm: die Adresse
+    secondarySingularForm: 
+    pluralForm: die Adressen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d353c31ddb07d05418a391f5ceb7dfa1, type: 3}
+    singularForm: die Arbeit
+    secondarySingularForm: 
+    pluralForm: die Arbeiten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 026ef9e584f63fa42b3124751ff8b39d, type: 3}
+    singularForm: die Zeit
+    secondarySingularForm: 
+    pluralForm: die Zeiten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 58ead2c1e0878eb48a1a66c376afca4d, type: 3}
+    singularForm: der Brief
+    secondarySingularForm: 
+    pluralForm: die Briefe
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6134b3e00dd067348ad2c840617451e3, type: 3}
+    singularForm: der Hund
+    secondarySingularForm: 
+    pluralForm: die Hunde
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 83b8d549fb94d6d4f91b2a1261209263, type: 3}
+    singularForm: der Zusteller
+    secondarySingularForm: die Zustellerin
+    pluralForm: die Zusteller
+    secondaryPluralForm: die Zustellerinnen
+  - image: {fileID: 21300000, guid: 1261f44e19f71334ea3d9a0129da7ab5, type: 3}
+    singularForm: das Tempo
+    secondarySingularForm: 
+    pluralForm: die Tempi
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: cd9cb59e265bde5498e1efe05140d96e, type: 3}
+    singularForm: der Stress
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: be39fb5fb9d88a4489e03dfd1a5051f0, type: 3}
+    singularForm: der Familienname
+    secondarySingularForm: 
+    pluralForm: die Familiennamen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ea07cbfa2da66714ab85a3c6956f6c8d, type: 3}
+    singularForm: das Problem
+    secondarySingularForm: 
+    pluralForm: die Probleme
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3921d2e31b99b2e42adc65c873a11d93, type: 3}
+    singularForm: der Nachname
+    secondarySingularForm: 
+    pluralForm: die Nachnamen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 8102d3edec21ebb4d99045a51f7d7cbd, type: 3}
+    singularForm: die Hausnummer
+    secondarySingularForm: 
+    pluralForm: die Hausnummern
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 35caa88fcf78afa428f3cf18bc8fac20, type: 3}
+    singularForm: "die Stra\xDFe"
+    secondarySingularForm: 
+    pluralForm: "die Stra\xDFen"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f7d7208045095b04eb5b1f46a53b08c9, type: 3}
+    singularForm: die Postleitzahl
+    secondarySingularForm: 
+    pluralForm: die Postleitzahlen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 2d068dc28805d4d4496d90f7070c4664, type: 3}
+    singularForm: der Briefkasten
+    secondarySingularForm: 
+    pluralForm: "die Briefk\xE4sten"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 47c32326de11d7b4bb625782faec5042, type: 3}
+    singularForm: die Postkarte
+    secondarySingularForm: 
+    pluralForm: die Postkarten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: bfb88847955ea1049a1c4861da3fff49, type: 3}
+    singularForm: die Antwort
+    secondarySingularForm: 
+    pluralForm: die Antworten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1a36c3e92a7f61940a7f5efb3d8ed8be, type: 3}
+    singularForm: der Partner
+    secondarySingularForm: die Partnerin
+    pluralForm: die Partner
+    secondaryPluralForm: die Partnerinnen
+  - image: {fileID: 21300000, guid: 4f11bb9ccaaa1d8418000d2e5dfdf32e, type: 3}
+    singularForm: die Mannschaft
+    secondarySingularForm: 
+    pluralForm: die Mannschaften
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 970a2a139f5c3cb48972e7bee430ac36, type: 3}
+    singularForm: die Woche
+    secondarySingularForm: 
+    pluralForm: die Wochen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6f4405a91fe34544ebac885e6c713bd3, type: 3}
+    singularForm: "der Profi-Fu\xDFball"
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 688e26668a0603a4bb84b61b5aeb3e11, type: 3}
+    singularForm: die Profimannschaft
+    secondarySingularForm: 
+    pluralForm: die Profimannschaften
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ac37e68d871a0294b984c6bf15d14285, type: 3}
+    singularForm: der Torwart
+    secondarySingularForm: die Torwartin
+    pluralForm: die Torwarte
+    secondaryPluralForm: die Torwartinnen
+  - image: {fileID: 21300000, guid: 7b82054a4cea4d54c997503d2670c577, type: 3}
+    singularForm: das Dorf
+    secondarySingularForm: 
+    pluralForm: "die D\xF6rfer"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 2920e79fb5691fc498d7460e880f9bb7, type: 3}
+    singularForm: der Trainer
+    secondarySingularForm: die Trainerin
+    pluralForm: die Trainer
+    secondaryPluralForm: die Trainerinnen
+  - image: {fileID: 21300000, guid: 8b935cb21c5d6c643be8115c818f06f5, type: 3}
+    singularForm: der Spieler
+    secondarySingularForm: die Spielerin
+    pluralForm: die Spieler
+    secondaryPluralForm: die Spielerinnen
+  - image: {fileID: 21300000, guid: fcc5973442cc6b8448c490e3ee572905, type: 3}
+    singularForm: das Training
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6e90179efe92f234a95111eaf94a00fb, type: 3}
+    singularForm: der Nationalspieler
+    secondarySingularForm: die Nationalspielerin
+    pluralForm: die Nationalspieler
+    secondaryPluralForm: die Nationalspielerinnen
+  - image: {fileID: 21300000, guid: 5ed6fdbf620ddb74cb863dae122a44af, type: 3}
+    singularForm: die Heimat
+    secondarySingularForm: 
+    pluralForm: die Heimaten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 26d6bc8e2e522c04daba085893330d5d, type: 3}
+    singularForm: die Region
+    secondarySingularForm: 
+    pluralForm: die Regionen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a45449d576b91f84c91839634c854ae2, type: 3}
+    singularForm: der Mensch
+    secondarySingularForm: 
+    pluralForm: die Menschen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c83b6f677c7bd7f4e9f028a6aa46d4d8, type: 3}
+    singularForm: der Lehrer
+    secondarySingularForm: die Lehrerin
+    pluralForm: die Lehrer
+    secondaryPluralForm: die Lehrerinnen
+  - image: {fileID: 21300000, guid: 77ae64666b2e72141b046cf0a4805b7c, type: 3}
+    singularForm: die Handynummer
+    secondarySingularForm: 
+    pluralForm: die Handynummern
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9b41763a7e16d8346859a1b0ab2021b2, type: 3}
+    singularForm: der Latte Macchiato
+    secondarySingularForm: 
+    pluralForm: die Latte Macchiatos
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3b2da0655ce67804fb230bcc11f89bd9, type: 3}
+    singularForm: der Kakao
+    secondarySingularForm: 
+    pluralForm: die Kakaos
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7471317ff3936f04abce562083bd2a97, type: 3}
+    singularForm: der Tee
+    secondarySingularForm: 
+    pluralForm: die Tees
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 915684506be87f744b7ea0f67d70b82d, type: 3}
+    singularForm: der Cappuccino
+    secondarySingularForm: 
+    pluralForm: die Cappuccinos
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a0bc775a6a317a94981428ba4fbf2717, type: 3}
+    singularForm: der Espresso
+    secondarySingularForm: 
+    pluralForm: die Espressos
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3f8e722fa7dab6544be80a81784b9f56, type: 3}
+    singularForm: der Orangensaft
+    secondarySingularForm: 
+    pluralForm: "die Orangens\xE4fte"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 487fff685c9f37d4f8cf5bb9369f2986, type: 3}
+    singularForm: das Wasser
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 17020e3ebaf86f64c8c26f2aa74d363c, type: 3}
+    singularForm: der Eistee
+    secondarySingularForm: 
+    pluralForm: die Eistees
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3cd1a08601d6a4d4e83c545692e56902, type: 3}
+    singularForm: der Arbeitsplatz
+    secondarySingularForm: 
+    pluralForm: "die Arbeitspl\xE4tze"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: cfa3eb90edf57aa4c9ffab6570d6b46a, type: 3}
+    singularForm: "das Caf\xE9"
+    secondarySingularForm: 
+    pluralForm: "die Caf\xE9s"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 915eed8a98a978143a720a68364c2e7a, type: 3}
+    singularForm: 
+    secondarySingularForm: 
+    pluralForm: die Leute
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 928d14f7ebf7a1842abaf3e123978e38, type: 3}
+    singularForm: das Marketing
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 17b4d7c5d1f9dba4e976bece4177865f, type: 3}
+    singularForm: der Kellner
+    secondarySingularForm: die Kellnerin
+    pluralForm: die Kellner
+    secondaryPluralForm: die Kellnerinnen
+  - image: {fileID: 21300000, guid: b7a5d2340f05a274caa762a2b54a9212, type: 3}
+    singularForm: der Grafikdesigner
+    secondarySingularForm: die Grafikdesignerin
+    pluralForm: die Grafikdesigner
+    secondaryPluralForm: die Grafikdesignerinnen
+  - image: {fileID: 21300000, guid: 12e9f5e3232d1eb479250474d9cc6fec, type: 3}
+    singularForm: die Brille
+    secondarySingularForm: 
+    pluralForm: die Brillen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3dca886e602ed0f4b88bcbd9065b51ed, type: 3}
+    singularForm: der Park
+    secondarySingularForm: 
+    pluralForm: die Parks
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 726ef4d1b7c54e249b49e06131d7bd84, type: 3}
+    singularForm: das Restaurant
+    secondarySingularForm: 
+    pluralForm: die Restaurants
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3886c8542e3e3e14686a869d8990133a, type: 3}
+    singularForm: das Internet
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d1d078a5a2ef00b4780d44d554571636, type: 3}
+    singularForm: "die Atmosph\xE4re"
+    secondarySingularForm: 
+    pluralForm: "die Atmosph\xE4ren"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 469c17c29d9ff6249af9baedd7e6c97e, type: 3}
+    singularForm: "der Kopfh\xF6rer"
+    secondarySingularForm: 
+    pluralForm: "die Kopfh\xF6rer"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 595d06f680f0f6241a9de7001594df84, type: 3}
+    singularForm: der Saft
+    secondarySingularForm: 
+    pluralForm: "die S\xE4fte"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 50fefaa6bcfbee94db2119adebb12c94, type: 3}
+    singularForm: das Mineralwasser
+    secondarySingularForm: 
+    pluralForm: die Mineralwasser
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b5b35a662753119498982b1ba8a96cac, type: 3}
+    singularForm: der Zucker
+    secondarySingularForm: 
+    pluralForm: die Zucker
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: e94dd6cade0289e4c9eaea392804c14d, type: 3}
+    singularForm: das Eis
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: cfd2395917768e7438f28516bd439070, type: 3}
+    singularForm: das Portemonnaie
+    secondarySingularForm: 
+    pluralForm: die Portemonnaies
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 721d6653ec1bf6941bad5f2b06830849, type: 3}
+    singularForm: die Cola
+    secondarySingularForm: das Cola
+    pluralForm: die Colas
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: cee6fc5aaecec13418313d3aa5bd1682, type: 3}
+    singularForm: der Apfelsaft
+    secondarySingularForm: 
+    pluralForm: "die Apfels\xE4fte"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 733e0d3ef6da5e5489c76f500b404117, type: 3}
+    singularForm: die Limonade
+    secondarySingularForm: 
+    pluralForm: die Limonaden
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: dd90958fccb4e0441baadded111a611a, type: 3}
+    singularForm: der Chai
+    secondarySingularForm: 
+    pluralForm: die Chais
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d44ee908ec5791e4c8283eabb34696f5, type: 3}
+    singularForm: das Konzert
+    secondarySingularForm: 
+    pluralForm: die Konzerte
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: fb47b57ab47791f46962955b78f384a3, type: 3}
+    singularForm: die Lust
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6c2f3df4083c0bc4ba21ddf6759f3720, type: 3}
+    singularForm: die Band
+    secondarySingularForm: 
+    pluralForm: die Bands
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 53bf5a9bf6c595240b4aa21ac39caca2, type: 3}
+    singularForm: die Karte
+    secondarySingularForm: 
+    pluralForm: die Karten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3fcf76b8c52b53e4097462a796d7a16e, type: 3}
+    singularForm: die Bar
+    secondarySingularForm: 
+    pluralForm: die Bars
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 8413dbaea1835bf429ed356a85850e3f, type: 3}
+    singularForm: der Milchkaffee
+    secondarySingularForm: 
+    pluralForm: die Milchkaffees
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 2ede14c6bdbb32543a32b3975f954528, type: 3}
+    singularForm: das Croissant
+    secondarySingularForm: 
+    pluralForm: die Croissants
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a3855f02c90563645bfed75851efe3a0, type: 3}
+    singularForm: "der Fu\xDFball"
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 

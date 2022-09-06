@@ -13,22 +13,29 @@ public class NounGameManager : QuizManager<Item>
     public override void CheckAnswer()
     {
         base.CheckAnswer();
-        string[] spliced = enteredAns.Split(" ");
+        string[] singularSpliced = enteredAns.Split(" ");
+        string pluralAns = pluralInput.text.Trim();
+        string[] pluralSpliced = pluralAns.Split(" ");
 
-        if (enteredAns.Equals(""))
+        bool isSingleEmpty = enteredAns.Equals("");
+        bool isPluralEmpty = pluralAns.Equals("");
+
+        if (isSingleEmpty && isPluralEmpty)
         {
             textManager.ShowMissingAnswerMessage();
         }
-        else if (spliced.Length == 1)
+        else if ((!isSingleEmpty && singularSpliced.Length == 1) 
+            || (!isPluralEmpty && pluralSpliced.Length == 1))
         {
             textManager.ShowMissingArticleMessage();
         }
-        else if (spliced.Length == 2 && !Char.IsUpper(spliced[1][0]))
+        else if ((!isPluralEmpty && !IsNounCapitalised(pluralSpliced))
+            || (!isSingleEmpty && !IsNounCapitalised(singularSpliced)))
         {
             textManager.ShowUncapitalisedNounMessage();
         }
         else if (currentItem
-            .CheckAnswer(enteredAns, pluralInput.text.Trim()))
+            .CheckAnswer(enteredAns, pluralAns))
         {
             textManager.ShowCorrectMessage();
             isQuestionSolved = true;
@@ -96,5 +103,10 @@ public class NounGameManager : QuizManager<Item>
         base.HideAnswer();
 
         pluralInput.text = prevPluralAns;
+    }
+
+    private bool IsNounCapitalised(string[] spliced)
+    {
+        return spliced.Length == 2 && Char.IsUpper(spliced[1][0]);
     }
 }
