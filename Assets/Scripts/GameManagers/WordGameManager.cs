@@ -65,11 +65,11 @@ public class WordGameManager : QuizManager<WordPair>
 
         if (isAnswerInEnglish)
         {
-            playerInput.text = "<color=red>" + currentItem.german + "</color>";
+            playerInput.text = "<color=red>" + currentItem.english + "</color>";
         } 
         else
         {
-            playerInput.text = "<color=red>" + currentItem.english + "</color>";
+            playerInput.text = "<color=red>" + currentItem.german + "</color>";
         }
     }
 
