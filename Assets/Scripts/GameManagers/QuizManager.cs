@@ -13,7 +13,7 @@ public abstract class QuizManager<T> : MonoBehaviour
     [SerializeField] protected UiEventManagerScriptableObject uiEventManager;
 
     [Header("Answers")]
-    [SerializeField] protected AnswerListScriptableObject<T> itemList;
+    [SerializeField] protected List<AnswerListScriptableObject<T>> syllabus;
 
     protected List<T> items;
     protected T currentItem;
@@ -73,6 +73,12 @@ public abstract class QuizManager<T> : MonoBehaviour
     public virtual void MoveToNextQuestion()
     {
         currentIndex = (currentIndex + 1) % itemCount;
+
+        if (currentIndex == 0)
+        {
+            ResetQuiz();
+        }
+
         uiEventManager.OnNextQuestion(currentIndex == itemCount - 1);
         isQuestionSolved = false;
         currentItem = items[currentIndex];
@@ -82,11 +88,9 @@ public abstract class QuizManager<T> : MonoBehaviour
         StartCoroutine(SelectFirstInputField());
     }
 
-    public void ResetQuiz()
+    private void ResetQuiz()
     {
         GeneralUtility.Shuffle(items);
-        currentIndex = 0;
-        MoveToNextQuestion();
     }
 
     public void ToggleAnswers()
@@ -106,7 +110,8 @@ public abstract class QuizManager<T> : MonoBehaviour
 
     protected virtual void Initialise()
     {
-        items = GeneralUtility.CopyList(itemList.items);
+        int selectedChapter = PersistentData.selectedChapter;
+        items = GeneralUtility.CopyList(syllabus[selectedChapter].items);
         GeneralUtility.Shuffle(items);
         itemCount = items.Count;
         currentItem = items[currentIndex];
