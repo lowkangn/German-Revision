@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e287d9b3b8afde408291466adaff822, type: 3}
+  m_Name: Chapter2-3_WordList
+  m_EditorClassIdentifier: 
+  items:
+  - english: little/few
+    german: wenig
+  - english: so
+    german: so
+  - english: large
+    german: "gro\xDF"
+  - english: say
+    german: sagen
+  - english: like
+    german: "m\xF6gen"
+  - english: but
+    german: 'aber '
+  - english: or
+    german: oder
+  - english: German
+    german: deutsch
+  - english: for
+    german: "f\xFCr"
+  - english: Good morning
+    german: Guten Morgen
+  - english: sorry
+    german: sorry
+  - english: bye
+    german: "tsch\xFCss"
+  - english: typical
+    german: typisch
+  - english: near/by
+    german: bei
+  - english: there is/are
+    german: geben
+  - english: often
+    german: oft
+  - english: only
+    german: nur
+  - english: since
+    german: seit
+  - english: warm, sincere
+    german: herzlich
+  - english: welcome
+    german: willkommen
+  - english: work
+    german: arbeiten
+  - english: be in, be fashionable
+    german: in sein
+  - english: study
+    german: studieren
+  - english: as
+    german: als
+  - english: meet
+    german: kennen lernen
+  - english: bit
+    german: ein bisschen
+  - english: great
+    german: toll
+  - english: everywhere
+    german: "\xFCberall"
+  - english: simple, easy
+    german: einfach
+  - english: need
+    german: brauchen
+  - english: why
+    german: warum
+  - english: go
+    german: gehen
+  - english: delicious
+    german: lecker
+  - english: (would) like
+    german: "m\xF6chten"
+  - english: drink
+    german: trinken
+  - english: have
+    german: nehmen
+  - english: order
+    german: bestellen
+  - english: rather
+    german: lieber
+  - english: without
+    german: ohne
+  - english: black
+    german: schwarz
+  - english: of
+    german: von
+  - english: today
+    german: heute
+  - english: super
+    german: super
+  - english: send
+    german: schicken
+  - english: perfect
+    german: perfekt
+  - english: See you then
+    german: Bis dann
+  - english: pay
+    german: zahlen
+  - english: back
+    german: "zur\xFCck"
+  - english: hey
+    german: hey
+  - english: look forward
+    german: freuen (sich)
+  - english: See you soon
+    german: Bis gleich
+  - english: See you tomorrow
+    german: Bis morgen
+  - english: very
+    german: sehr
+  - english: See you later
+    german: "Bis sp\xE4ter"
