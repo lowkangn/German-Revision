@@ -3,13 +3,19 @@ using UnityEngine.SceneManagement;
 
 public class SceneNavigator : MonoBehaviour
 {
-    private static readonly string SCENE_NAME_MENU = "Menu";
+    private static readonly string SCENE_NAME_CHAPTER_MENU = "ChapterMenu";
+    private static readonly string SCENE_NAME_GAME_MENU = "GameMenu";
     private static readonly string SCENE_NAME_NOUN_GAME = "NounsGame";
     private static readonly string SCENE_NAME_WORD_GAME = "WordGame";
 
-    public void SwitchToMainMenu()
+    public void SwitchToChapterMenu()
     {
-        SceneManager.LoadScene(SCENE_NAME_MENU);
+        SceneManager.LoadScene(SCENE_NAME_CHAPTER_MENU);
+    }
+
+    public void SwitchToGameMenu()
+    {
+        SceneManager.LoadScene(SCENE_NAME_GAME_MENU);
     }
 
     public void SwitchToWordGame()
