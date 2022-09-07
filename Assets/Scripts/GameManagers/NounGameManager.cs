@@ -37,10 +37,7 @@ public class NounGameManager : QuizManager<Item>
         else if (currentItem
             .CheckAnswer(enteredAns, pluralAns))
         {
-            textManager.ShowCorrectMessage();
-            isQuestionSolved = true;
-            SetInputToReadonly(true); 
-            CheckForQuizEnd();
+            MarkAnswerAsCorrect();
         }
         else
         {
@@ -107,6 +104,14 @@ public class NounGameManager : QuizManager<Item>
 
     private bool IsNounCapitalised(string[] spliced)
     {
-        return spliced.Length == 2 && Char.IsUpper(spliced[1][0]);
+        return spliced.Length > 1 && Char.IsUpper(spliced[1][0]);
+    }
+
+    private void MarkAnswerAsCorrect()
+    {
+        textManager.ShowCorrectMessage();
+        isQuestionSolved = true;
+        SetInputToReadonly(true);
+        CheckForQuizEnd();
     }
 }
