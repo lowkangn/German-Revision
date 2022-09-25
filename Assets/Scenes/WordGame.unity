@@ -1891,6 +1891,7 @@ MonoBehaviour:
   syllabus:
   - {fileID: 11400000, guid: af958c256ffb7354c80231eec5600017, type: 2}
   - {fileID: 11400000, guid: 58b69c839c213fb4f8dd36463d45b569, type: 2}
+  - {fileID: 11400000, guid: d863c3358b34ffb4d9f776ddbc2f052e, type: 2}
   wordPrompt: {fileID: 1767281073}
 --- !u!1 &788370722
 GameObject:
