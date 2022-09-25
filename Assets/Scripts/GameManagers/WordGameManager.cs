@@ -38,12 +38,6 @@ public class WordGameManager : QuizManager<WordPair>
         SetNextPrompt();
     }
 
-    public override void ShowHint()
-    {
-        string hint = isAnswerInEnglish ? currentItem.english : currentItem.german;
-        textManager.SetHint(hint);
-    }
-
     protected override void Initialise()
     {
         base.Initialise();
