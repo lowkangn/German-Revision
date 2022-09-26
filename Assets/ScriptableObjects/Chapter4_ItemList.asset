@@ -54,7 +54,7 @@ MonoBehaviour:
     pluralForm: die Fotos
     secondaryPluralForm: 
   - image: {fileID: 21300000, guid: 6e59f0e5d231762408c978810badc6f6, type: 3}
-    singularForm: er Kommentar
+    singularForm: der Kommentar
     secondarySingularForm: 
     pluralForm: die Kommentare
     secondaryPluralForm: 
