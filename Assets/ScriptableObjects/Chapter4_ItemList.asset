@@ -1,0 +1,295 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac92056a5a3588c45bbc2024846f17aa, type: 3}
+  m_Name: Chapter4_ItemList
+  m_EditorClassIdentifier: 
+  items:
+  - image: {fileID: 21300000, guid: 52c0feeb722d5174e8e9de9ec71f0357, type: 3}
+    singularForm: das Essen
+    secondarySingularForm: 
+    pluralForm: die Essen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3daf9262eec5b0749a3a58fd483e0e7c, type: 3}
+    singularForm: das Sushi
+    secondarySingularForm: 
+    pluralForm: die Sushis
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b0d535a5b1eb7ff4088285bbee59c872, type: 3}
+    singularForm: der Fisch
+    secondarySingularForm: 
+    pluralForm: die Fische
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a691de5185a9b4b47a66b1a512d7e835, type: 3}
+    singularForm: das Tier
+    secondarySingularForm: 
+    pluralForm: die Tiere
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1de609136c8681642bc8b534bcd3af92, type: 3}
+    singularForm: das Fleisch
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6357e578338e2c541b8e491065ca7bc2, type: 3}
+    singularForm: der Food Blogger
+    secondarySingularForm: die Food Bloggerin
+    pluralForm: die Food Blogger
+    secondaryPluralForm: die Food Bloggerinnen
+  - image: {fileID: 21300000, guid: f469eb6cd6b5c3346a08fdc7d9fe4685, type: 3}
+    singularForm: "das Getr\xE4nk"
+    secondarySingularForm: 
+    pluralForm: "die Getr\xE4nke"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 06149df8dd7d5d54eb97480458cf0fad, type: 3}
+    singularForm: das Foto
+    secondarySingularForm: 
+    pluralForm: die Fotos
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6e59f0e5d231762408c978810badc6f6, type: 3}
+    singularForm: der Kommentar
+    secondarySingularForm: 
+    pluralForm: die Kommentare
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ec753bfc7cb56a14c9ccd96bdcd384dc, type: 3}
+    singularForm: die Kultur
+    secondarySingularForm: 
+    pluralForm: die Kulturen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: adba27c1965344a488a9a242a3584995, type: 3}
+    singularForm: das Leben
+    secondarySingularForm: 
+    pluralForm: die Leben
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: cd0589e10237ec34dab36fd1e7002da7, type: 3}
+    singularForm: das Thema
+    secondarySingularForm: 
+    pluralForm: die Themen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3a6d08e9ebc9ae1478d2c72ad91a4086, type: 3}
+    singularForm: der Freund
+    secondarySingularForm: die Freundin
+    pluralForm: die Freunde
+    secondaryPluralForm: die Freundinnen
+  - image: {fileID: 21300000, guid: 85d2ca0b83432964c86f81ca7b1ad62d, type: 3}
+    singularForm: die Speisekarte
+    secondarySingularForm: 
+    pluralForm: die Speisekarten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d6f31a211ffca5045b5b114b0f45aa35, type: 3}
+    singularForm: die Vorspeise
+    secondarySingularForm: 
+    pluralForm: die Vorspeisen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 44395f9de086b7e4fb8413fe8f701e59, type: 3}
+    singularForm: die Tomatensuppe
+    secondarySingularForm: 
+    pluralForm: die Tomatensuppen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: da75fa371d27fd344a950b1bea347f6e, type: 3}
+    singularForm: das Baguette
+    secondarySingularForm: 
+    pluralForm: die Baguettes
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 4fd84ac845794244fa76a7bdebc90516, type: 3}
+    singularForm: der Salat
+    secondarySingularForm: 
+    pluralForm: die Salate
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d05a2899ea2f77343add1107c23fd123, type: 3}
+    singularForm: "der K\xE4se"
+    secondarySingularForm: 
+    pluralForm: "die K\xE4se"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 97be9279df0fc1e48ba188bbfb777c71, type: 3}
+    singularForm: die Tomate
+    secondarySingularForm: 
+    pluralForm: die Tomaten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 58d8a079d59ef3240a628e1668cce13c, type: 3}
+    singularForm: die Olive
+    secondarySingularForm: 
+    pluralForm: die Oliven
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d434fe93e9466d145ac89efa1403fd4f, type: 3}
+    singularForm: das Hauptgericht
+    secondarySingularForm: 
+    pluralForm: die Hauptgerichte
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 2aa428b902cdab64f8178f508d3b0b1f, type: 3}
+    singularForm: das Steak
+    secondarySingularForm: 
+    pluralForm: die Steaks
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 54c9e7c3b23d03844891c64755c234e3, type: 3}
+    singularForm: die Kartoffel
+    secondarySingularForm: 
+    pluralForm: die Kartoffeln
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 638c9a6cd1a873a448d993737e9bb2a1, type: 3}
+    singularForm: das Schnitzel
+    secondarySingularForm: 
+    pluralForm: die Schnitzel
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 86671eb846f4ed04687e60dea0c0bfc0, type: 3}
+    singularForm: der Kartoffelsalat
+    secondarySingularForm: 
+    pluralForm: die Kartoffelsalate
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ec9cb05ce0c109a4aab960c9855f5496, type: 3}
+    singularForm: "das H\xE4hnchen"
+    secondarySingularForm: 
+    pluralForm: "die H\xE4hnchen"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 72056424158a716449b7c7574626eef4, type: 3}
+    singularForm: "das Gem\xFCse"
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 27f8ea269a158fa449ca9413d17139cd, type: 3}
+    singularForm: der Hamburger
+    secondarySingularForm: 
+    pluralForm: die Hamburger
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 431fcc5dd7abf1d41bfe305cab6f0ef0, type: 3}
+    singularForm: 
+    secondarySingularForm: 
+    pluralForm: die Pommes
+    secondaryPluralForm: die Pommes Frites
+  - image: {fileID: 21300000, guid: 6cf73380500e06d47b0575e4ea5c328e, type: 3}
+    singularForm: "das Gem\xFCsecurry"
+    secondarySingularForm: 
+    pluralForm: "die Gem\xFCsecurrys"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f0e7d97c1522b3245a1d806a4c623ed4, type: 3}
+    singularForm: das Tofu
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: dfda6ec8cc691bb4d9ece702a8822a00, type: 3}
+    singularForm: der Reis
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: aa3391517f2b57749bdbf6ea7367a870, type: 3}
+    singularForm: das Rind
+    secondarySingularForm: 
+    pluralForm: die Rinder
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7518e0aafeff4e94c91be61ab418f945, type: 3}
+    singularForm: das Schwein
+    secondarySingularForm: 
+    pluralForm: die Schweine
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9e430ffd7f9e77541ad963920af9c28c, type: 3}
+    singularForm: das Huhn
+    secondarySingularForm: 
+    pluralForm: "die H\xFChner"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6e0b3f0bdcf01dd4798f3f652fe7e2b3, type: 3}
+    singularForm: der Kuchen
+    secondarySingularForm: 
+    pluralForm: die Kuchen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 8f496bbdf5c902d4fa61bf32cf78f12f, type: 3}
+    singularForm: die Currywurst
+    secondarySingularForm: 
+    pluralForm: "die Curryw\xFCrste"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 5d98c21db6e118d4d9e194c320e6992f, type: 3}
+    singularForm: das Schweinefleisch
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f06b4196dc137344685f089964077805, type: 3}
+    singularForm: die Suppe
+    secondarySingularForm: 
+    pluralForm: die Suppen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: eac4ab10e7490e9438de5be71a157c88, type: 3}
+    singularForm: die Pizza
+    secondarySingularForm: 
+    pluralForm: die Pizzas
+    secondaryPluralForm: die Pizzen
+  - image: {fileID: 21300000, guid: e782b362091eb8048818f9b33a8cb299, type: 3}
+    singularForm: die Ananas
+    secondarySingularForm: 
+    pluralForm: die Ananasse
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 2cce277d157262648b44548e970bd9e0, type: 3}
+    singularForm: der Schinken
+    secondarySingularForm: 
+    pluralForm: die Schinken
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9be6be1df992f6942847b99bc7776e35, type: 3}
+    singularForm: der Hunger
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 5742428063aa58e4c8d2d707ae6982cc, type: 3}
+    singularForm: die Idee
+    secondarySingularForm: 
+    pluralForm: die Ideen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 544db3cbaf531aa4c90c3cb2bff664b2, type: 3}
+    singularForm: "das R\xF6sti"
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 10dbbd02c5df872499c384802501a741, type: 3}
+    singularForm: "die Spezialit\xE4t"
+    secondarySingularForm: 
+    pluralForm: "die Spezialit\xE4ten"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 712dd1afa496d514f9296352cc4210e4, type: 3}
+    singularForm: das Kalbfleisch
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ddf4ba796bcd3db4f9c046346ccd61f1, type: 3}
+    singularForm: der Blog
+    secondarySingularForm: 
+    pluralForm: die Blogs
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 95a7a744149053b47aceba74f75ab880, type: 3}
+    singularForm: das Rezept
+    secondarySingularForm: 
+    pluralForm: die Rezepte
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a33155f421c0a9b45b760a692c77f234, type: 3}
+    singularForm: die Reisnudel
+    secondarySingularForm: 
+    pluralForm: die Reisnudeln
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 8f755d554dd9afd48abb8bed417be5ac, type: 3}
+    singularForm: der Dank
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 5a88471a0365c7c4c8063892145352d9, type: 3}
+    singularForm: "das Gl\xFCck"
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9b87c81d6c553684caffb504b93e1be5, type: 3}
+    singularForm: das Beispiel
+    secondarySingularForm: 
+    pluralForm: die Beispiele
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6095b0e7677008742b0e2f8163d6fb87, type: 3}
+    singularForm: das Streetfood
+    secondarySingularForm: 
+    pluralForm: die Streetfoods
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 15a5143cc4b81594cab50744fa23ebe6, type: 3}
+    singularForm: der Hobbykoch
+    secondarySingularForm: "die Hobbyk\xF6chin"
+    pluralForm: "die Hobbyk\xF6che"
+    secondaryPluralForm: "die Hobbyk\xF6chinnen"
