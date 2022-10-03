@@ -81,3 +81,99 @@ MonoBehaviour:
     german: zum Beispiel
   - english: try
     german: probieren
+  - english: win
+    german: siegen
+  - english: over
+    german: "\xFCber"
+  - english: (here:) among
+    german: bei
+  - english: take place
+    german: stattfinden
+  - english: lead
+    german: "f\xFChren"
+  - english: through
+    german: durch
+  - english: last
+    german: dauern
+  - english: (here:) boil
+    german: kochen
+  - english: sleep
+    german: schlafen
+  - english: watch television
+    german: fernsehen
+  - english: long
+    german: lang(e)
+  - english: buy, go shopping
+    german: einkaufen
+  - english: use
+    german: nutzen
+  - english: at
+    german: um
+  - english: be sorry
+    german: leidtun
+  - english: be cancelled
+    german: ausfallen
+  - english: half
+    german: halb
+  - english: OK
+    german: o.k.
+  - english: then
+    german: dann
+  - english: Speak to you soon!
+    german: "Auf Wiederh\xF6ren!"
+  - english: leave, depart
+    german: abfahren
+  - english: just, shortly
+    german: kurz
+  - english: (here:) to
+    german: vor
+  - english: (here:) past
+    german: nach
+  - english: late
+    german: "sp\xE4t"
+  - english: sleep in/late
+    german: ausschlafen
+  - english: pick up
+    german: abholen
+  - english: ring, phone
+    german: anrufen
+  - english: switch off
+    german: ausschalten
+  - english: Good evening!
+    german: Guten Abend!
+  - english: Good night!
+    german: Gute Nacht!
+  - english: suit, fit
+    german: passen
+  - english: tomorrow
+    german: morgen
+  - english: free
+    german: frei
+  - english: great
+    german: prima
+  - english: to
+    german: zu
+  - english: have breakfast
+    german: "fr\xFChst\xFCcken"
+  - english: get up
+    german: aufstehen
+  - english: go away
+    german: weggehen
+  - english: bake
+    german: backen
+  - english: play
+    german: spielen
+  - english: prepare
+    german: vorbereiten
+  - english: there
+    german: da
+  - english: "doesn\u2019t matter"
+    german: egal
+  - english: invite
+    german: einladen
+  - english: bring
+    german: mitbringen
+  - english: quick
+    german: schnell
+  - english: go
+    german: fahren
