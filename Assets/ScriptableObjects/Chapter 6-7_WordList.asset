@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e287d9b3b8afde408291466adaff822, type: 3}
+  m_Name: Chapter 6-7_WordList
+  m_EditorClassIdentifier: 
+  items:
+  - english: on the way, en route
+    german: unterwegs
+  - english: punctual
+    german: "p\xFCnktlich"
+  - english: meet
+    german: treffen (sich)
+  - english: (here:) at
+    german: an
+  - english: on foot
+    german: "zu Fu\xDF"
+  - english: there
+    german: dort
+  - english: never
+    german: nie
+  - english: see
+    german: sehen
+  - english: whole
+    german: ganz
+  - english: modern
+    german: modern
+  - english: visit
+    german: besuchen
+  - english: report
+    german: berichten
+  - english: total(ly), complete(ly)
+    german: total
+  - english: absolutely
+    german: absolut
+  - english: fantastic
+    german: klasse
+  - english: from
+    german: ab
+  - english: until
+    german: bis
+  - english: sometimes
+    german: manchmal
+  - english: always
+    german: immer
+  - english: leave, depart
+    german: abfahren
+  - english: arrive
+    german: ankommen
+  - english: change, transfer
+    german: umsteigen
+  - english: help
+    german: helfen
+  - english: check
+    german: nachsehen
+  - english: "(here:) OK, let\u2019s see"
+    german: also
+  - english: continue
+    german: weiterfahren
+  - english: right
+    german: rechts
+  - english: turn off
+    german: abbiegen
+  - english: left
+    german: links
+  - english: straight on/ahead
+    german: geradeaus
+  - english: nice
+    german: "sch\xF6n"
+  - english: far
+    german: weit
+  - english: then
+    german: dann
+  - english: belong to
+    german: "geh\xF6ren"
+  - english: do
+    german: tun
+  - english: organise
+    german: organisieren
+  - english: greet
+    german: "begr\xFC\xDFen"
+  - english: new
+    german: neu
+  - english: show
+    german: zeigen
+  - english: important
+    german: wichtig
+  - english: excuse
+    german: entschuldigen (sich)
+  - english: more
+    german: mehr
+  - english: explain
+    german: "erkl\xE4ren"
+  - english: buy
+    german: kaufen
+  - english: prepare
+    german: vorbereiten
+  - english: copy
+    german: kopieren
+  - english: answer
+    german: beantworten
+  - english: formal
+    german: formell
+  - english: informal
+    german: informell
+  - english: up to now
+    german: bisher
+  - english: give, (here:) offer
+    german: geben
+  - english: next to
+    german: neben
+  - english: stand, (here:) be
+    german: stehen
+  - english: lay
+    german: liegen
+  - english: under
+    german: unter
+  - english: hang
+    german: "h\xE4ngen"
+  - english: between
+    german: zwischen
