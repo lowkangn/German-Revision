@@ -11,7 +11,7 @@ public struct WordPair
 
     public bool CheckAnswer(string answer, bool isEnglish)
     {
-        return isEnglish ? answer.Equals(english) : answer.Equals(german);
+        return isEnglish ? answer.Equals(english.ToString()) : answer.Equals(german.ToString());
     }
 }
 
