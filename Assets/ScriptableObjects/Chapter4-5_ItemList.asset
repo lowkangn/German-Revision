@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ac92056a5a3588c45bbc2024846f17aa, type: 3}
-  m_Name: Chapter4_ItemList
+  m_Name: Chapter4-5_ItemList
   m_EditorClassIdentifier: 
   items:
   - image: {fileID: 21300000, guid: 52c0feeb722d5174e8e9de9ec71f0357, type: 3}
@@ -293,3 +293,243 @@ MonoBehaviour:
     secondarySingularForm: "die Hobbyk\xF6chin"
     pluralForm: "die Hobbyk\xF6che"
     secondaryPluralForm: "die Hobbyk\xF6chinnen"
+  - image: {fileID: 21300000, guid: 84a789c90d47d7943a849053734a6cfe, type: 3}
+    singularForm: der Sieger
+    secondarySingularForm: die Siegerin
+    pluralForm: die Sieger
+    secondaryPluralForm: die Siegerinnen
+  - image: {fileID: 21300000, guid: 2c61532fb12a70845a059238720a21a3, type: 3}
+    singularForm: der Marathon
+    secondarySingularForm: 
+    pluralForm: die Marathons
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b1ee6b9ca92d14e4882ec25b65551846, type: 3}
+    singularForm: die Distanz
+    secondarySingularForm: 
+    pluralForm: die Distanzen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9e77dec206a17f247b07baae6e8009f7, type: 3}
+    singularForm: der Sonntag
+    secondarySingularForm: 
+    pluralForm: die Sonntage
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 471d3c26065ecba40979aef24d504fb7, type: 3}
+    singularForm: der Mann
+    secondarySingularForm: 
+    pluralForm: "die M\xE4nner"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 37d5771952e55834aa1234d7357aba9a, type: 3}
+    singularForm: die Frau
+    secondarySingularForm: 
+    pluralForm: die Frauen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 5c4cacea14c5906468ae7be8928258ea, type: 3}
+    singularForm: der Kilometer
+    secondarySingularForm: 
+    pluralForm: die Kilometer
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d2f5ec874bcb16146b65d946107943bb, type: 3}
+    singularForm: das Quiz
+    secondarySingularForm: 
+    pluralForm: die Quiz
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ce9623169502a8846ac9f39970da3555, type: 3}
+    singularForm: die Minute
+    secondarySingularForm: 
+    pluralForm: die Minuten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 58f2a05c2110b6e49b91be8ff0aa16dd, type: 3}
+    singularForm: die Spaghetti
+    secondarySingularForm: 
+    pluralForm: die Spaghetti
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 8a37e99114cb78a4aa5f480b1e31c2bf, type: 3}
+    singularForm: das Ei
+    secondarySingularForm: 
+    pluralForm: die Eier
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: e6c6f734ee77f444f9b8bc48cce5f3d9, type: 3}
+    singularForm: das Jahr
+    secondarySingularForm: 
+    pluralForm: die Jahre
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b8131720df719504bb5f000bf6bbb2a9, type: 3}
+    singularForm: der Deutsche
+    secondarySingularForm: die Deutsche
+    pluralForm: die Deutschen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 4b887a4f02dc010419b1d003e8956169, type: 3}
+    singularForm: der Monat
+    secondarySingularForm: 
+    pluralForm: die Monate
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 0f6e5ae21f823774d9171e00eb0d203e, type: 3}
+    singularForm: der Tag
+    secondarySingularForm: 
+    pluralForm: die Tage
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 580c99071d39ca8498184602d5d8d817, type: 3}
+    singularForm: die Stunde
+    secondarySingularForm: 
+    pluralForm: die Stunden
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 41e7ff7e04bb2d442853fdce20b99b31, type: 3}
+    singularForm: das Interview
+    secondarySingularForm: 
+    pluralForm: die Interviews
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b750db46a98569043b8fe72d4c9be9dc, type: 3}
+    singularForm: die Armbanduhr
+    secondarySingularForm: 
+    pluralForm: die Armbanduhren
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a614493da5754804aa2544fcdeb4a321, type: 3}
+    singularForm: die Sekunde
+    secondarySingularForm: 
+    pluralForm: die Sekunden
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c754f470fd795a3488489044ad26cf53, type: 3}
+    singularForm: der Termin
+    secondarySingularForm: 
+    pluralForm: die Termine
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 57cc86188ef26624d9e02bd8a73b3b01, type: 3}
+    singularForm: die S-Bahn
+    secondarySingularForm: 
+    pluralForm: die S-Bahnen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 8eac9caf5dbf42a4388666a0c6a41eff, type: 3}
+    singularForm: der Bus
+    secondarySingularForm: 
+    pluralForm: die Busse
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 903378d9c3b30074bb5fd5d2cc483c67, type: 3}
+    singularForm: die Linie
+    secondarySingularForm: 
+    pluralForm: die Linien
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 075059790178c9641af6ad749fc64b7b, type: 3}
+    singularForm: das Viertel
+    secondarySingularForm: 
+    pluralForm: die Viertel
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 40504055e9013034f953a58ea078174c, type: 3}
+    singularForm: der Montag
+    secondarySingularForm: 
+    pluralForm: die Montage
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: e7b12ec92c27e7745a8820f02588f53e, type: 3}
+    singularForm: der Dienstag
+    secondarySingularForm: 
+    pluralForm: die Dienstage
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 8a92ec82aeab0fd4793e0733dabc7cfc, type: 3}
+    singularForm: der Mittwoch
+    secondarySingularForm: 
+    pluralForm: die Mittwoche
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: daff764074bd7af4bbc5635988b3fbc5, type: 3}
+    singularForm: der Donnerstag
+    secondarySingularForm: 
+    pluralForm: die Donnerstage
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 5a501024e6cf4574aa31b8c262ecc213, type: 3}
+    singularForm: der Freitag
+    secondarySingularForm: 
+    pluralForm: die Freitage
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 8042cca1c5f097f4d9485d96409deeaa, type: 3}
+    singularForm: der Samstag
+    secondarySingularForm: 
+    pluralForm: die Samstage
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b7ae0f3c77465f24a857366ee848894d, type: 3}
+    singularForm: das Auto
+    secondarySingularForm: 
+    pluralForm: die Autos
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 997760380280acf4cb4011a982141015, type: 3}
+    singularForm: die Telefonkonferenz
+    secondarySingularForm: 
+    pluralForm: die Telefonkonferenzen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c539776976d00c24f92aa35771cdbc8c, type: 3}
+    singularForm: der Computer
+    secondarySingularForm: 
+    pluralForm: die Computer
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 99c6f04ae258a8b4e8eb91b8135b37ad, type: 3}
+    singularForm: das Wochenende
+    secondarySingularForm: 
+    pluralForm: die Wochenenden
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3dd46ef995d4a7249be1e57a3f1617b1, type: 3}
+    singularForm: der Morgen
+    secondarySingularForm: der Vormittag
+    pluralForm: die Morgen
+    secondaryPluralForm: die Vormittage
+  - image: {fileID: 21300000, guid: 23bf73be4e2f0bc438f7b6aa9ab65385, type: 3}
+    singularForm: der Mittag
+    secondarySingularForm: 
+    pluralForm: die Mittage
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 89a33ae9f57909045bb02c826ab18abd, type: 3}
+    singularForm: der Nachmittag
+    secondarySingularForm: 
+    pluralForm: die Nachmittage
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 5cbba973d823b0a4f96c0bc868e7f360, type: 3}
+    singularForm: der Abend
+    secondarySingularForm: 
+    pluralForm: die Abende
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: aa24ef8b781adc64d9c9a0bf5af7834a, type: 3}
+    singularForm: die Nacht
+    secondarySingularForm: 
+    pluralForm: "die N\xE4chte"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: da4a6c35dd8443c49bd55603fad85b3d, type: 3}
+    singularForm: der Dienstagnachmittag
+    secondarySingularForm: 
+    pluralForm: die Dienstagnachmittage
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 14124b3c4eb64104ab4f052d5adbb6cf, type: 3}
+    singularForm: "der B\xE4cker"
+    secondarySingularForm: "die B\xE4ckerin"
+    pluralForm: "die B\xE4cker"
+    secondaryPluralForm: "die B\xE4ckerinnen"
+  - image: {fileID: 21300000, guid: a61abb48faf509f4d9350760900a8b39, type: 3}
+    singularForm: die Uni
+    secondarySingularForm: 
+    pluralForm: die Unis
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d3a6e46ebc61f874798b87069d6a5235, type: 3}
+    singularForm: das Bett
+    secondarySingularForm: 
+    pluralForm: die Betten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: de87fdefeae930944945c46e52ca7b46, type: 3}
+    singularForm: der Test
+    secondarySingularForm: 
+    pluralForm: die Tests
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: fc9a0400bea31e844a1da8b2954070e6, type: 3}
+    singularForm: die Pasta
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f3489356db247ec4290561270d3d3afe, type: 3}
+    singularForm: die Buslinie
+    secondarySingularForm: 
+    pluralForm: die Buslinien
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 12c3d6bd34e378d4dbb2871ce40fe7a9, type: 3}
+    singularForm: der Wein
+    secondarySingularForm: 
+    pluralForm: die Weine
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 00167668edda05d48bf5ec8fb9fec107, type: 3}
+    singularForm: der Gast
+    secondarySingularForm: 
+    pluralForm: "die G\xE4ste"
+    secondaryPluralForm: 

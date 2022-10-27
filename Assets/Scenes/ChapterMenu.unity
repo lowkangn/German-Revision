@@ -598,7 +598,7 @@ GameObject:
   - component: {fileID: 766812836}
   - component: {fileID: 766812835}
   m_Layer: 5
-  m_Name: Chapter 4
+  m_Name: Chapter 4-5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1019,7 +1019,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Chapter 4
+  m_text: 'Chapter 4-5
 
 '
   m_isRightToLeft: 0
