@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e287d9b3b8afde408291466adaff822, type: 3}
-  m_Name: Chapter 6-7_WordList
+  m_Name: Chapter6-7_WordList
   m_EditorClassIdentifier: 
   items:
   - english: on the way, en route

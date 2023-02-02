@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ac92056a5a3588c45bbc2024846f17aa, type: 3}
-  m_Name: Chapter 6-7_ItemList
+  m_Name: Chapter6-7_ItemList
   m_EditorClassIdentifier: 
   items:
   - image: {fileID: 21300000, guid: 59af60b044dc53b4e8da7a5ef98a22ce, type: 3}

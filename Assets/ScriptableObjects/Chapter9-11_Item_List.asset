@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac92056a5a3588c45bbc2024846f17aa, type: 3}
+  m_Name: Chapter9-11_Item_List
+  m_EditorClassIdentifier: 
+  items:
+  - image: {fileID: 21300000, guid: 5111f300cf4d08847981fbe36b8e26fc, type: 3}
+    singularForm: die Tochter
+    secondarySingularForm: 
+    pluralForm: "die T\xF6chter"
+    secondaryPluralForm: 
