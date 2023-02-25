@@ -1758,6 +1758,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 58b69c839c213fb4f8dd36463d45b569, type: 2}
   - {fileID: 11400000, guid: d863c3358b34ffb4d9f776ddbc2f052e, type: 2}
   - {fileID: 11400000, guid: 983657fbd4b85d44d8cba683c05bab28, type: 2}
+<<<<<<< Updated upstream
+=======
+  - {fileID: 11400000, guid: c02bd013446d37f4bb9a8fc39baeea73, type: 2}
+  - {fileID: 11400000, guid: a5c64c534fd130044bbaccfc236fe5ec, type: 2}
+>>>>>>> Stashed changes
   wordPrompt: {fileID: 1767281073}
 --- !u!1 &788370722
 GameObject:

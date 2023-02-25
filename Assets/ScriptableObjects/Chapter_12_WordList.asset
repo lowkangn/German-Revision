@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e287d9b3b8afde408291466adaff822, type: 3}
+  m_Name: Chapter_12_WordList
+  m_EditorClassIdentifier: 
+  items:
+  - english: shop
+    german: shoppen
+  - english: carry, drag
+    german: schleppen
+  - english: (to) home
+    german: nach Hause
+  - english: open
+    german: "ge\xF6ffnet"
+  - english: must, have to
+    german: "m\xFCssen"
+  - english: nothing
+    german: nichts
+  - english: search, look for
+    german: suchen
+  - english: choose, select
+    german: "ausw\xE4hlen"
+  - english: give, specify
+    german: angeben
+  - english: fresh
+    german: frisch
+  - english: still
+    german: naturell
+  - english: quarter
+    german: viertel
+  - english: cost
+    german: kosten
+  - english: this, these
+    german: dieser, dieses, diese
+  - english: wish, want
+    german: "w\xFCnschen"
+  - english: most of all
+    german: am liebsten
+  - english: Indian
+    german: indisch
+  - english: get, receive
+    german: bekommen
+  - english: pour
+    german: "gie\xDFen"
+  - english: fry
+    german: braten
+  - english: cut
+    german: schneiden
+  - english: clean
+    german: putzen
+  - english: to (it)
+    german: dazu
+  - english: stir
+    german: "r\xFChren"
+  - english: some(thing), (a) little
+    german: etwas
+  - english: add
+    german: dazutun
+  - english: first(ly)
+    german: zuerst
+  - english: finally
+    german: zum Schluss
