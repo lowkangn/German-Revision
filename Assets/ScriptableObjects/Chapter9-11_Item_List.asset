@@ -1,0 +1,640 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac92056a5a3588c45bbc2024846f17aa, type: 3}
+  m_Name: Chapter9-11_Item_List
+  m_EditorClassIdentifier: 
+  items:
+  - image: {fileID: 21300000, guid: 5f9b5a0bc5d188840b96b287065e8816, type: 3}
+    singularForm: die Tochter
+    secondarySingularForm: 
+    pluralForm: "die T\xF6chter"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d8b2fdd8e870ad348b40f6616ddb803b, type: 3}
+    singularForm: das Haus
+    secondarySingularForm: 
+    pluralForm: "die H\xE4user"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 331b9ab709ee422409e7fc61d2c4343d, type: 3}
+    singularForm: die Wohnung
+    secondarySingularForm: 
+    pluralForm: die Wohnungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 2bda88cb2995c6640a6d25bdce786022, type: 3}
+    singularForm: das Zimmer
+    secondarySingularForm: 
+    pluralForm: die Zimmer
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 30b22b09b7a59ca40af6d82a71336739, type: 3}
+    singularForm: das Arbeitszimmer
+    secondarySingularForm: das Homeoffice
+    pluralForm: die Arbeitszimmer
+    secondaryPluralForm: die Homeoffices
+  - image: {fileID: 21300000, guid: c3071166939b21348b8f6f2034a4b836, type: 3}
+    singularForm: das Kinderzimmer
+    secondarySingularForm: 
+    pluralForm: die Kinderzimmer
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 897780a56f3c12a4ab121d05526859d6, type: 3}
+    singularForm: das Wohnzimmer
+    secondarySingularForm: 
+    pluralForm: die Wohnzimmer
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: eb779e9cd411cf842974d23d797cb4d6, type: 3}
+    singularForm: das Sofa
+    secondarySingularForm: 
+    pluralForm: die Sofas
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1431080ffafe20347b24995cadf7c864, type: 3}
+    singularForm: der Teppich
+    secondarySingularForm: 
+    pluralForm: die Teppiche
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1f4fbdc93ff693a4aa9132cb5688ce3c, type: 3}
+    singularForm: das Badezimmer
+    secondarySingularForm: 
+    pluralForm: die Badezimmer
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 5c2e58ef4e752254a89c9a335eaf5693, type: 3}
+    singularForm: der Balkon
+    secondarySingularForm: 
+    pluralForm: die Balkons
+    secondaryPluralForm: die Balkone
+  - image: {fileID: 21300000, guid: f147459f7b4e4ac46a752775ee5c49c4, type: 3}
+    singularForm: der Nachbar
+    secondarySingularForm: die Nachbarin
+    pluralForm: die Nachbarn
+    secondaryPluralForm: die Nachbarinnen
+  - image: {fileID: 21300000, guid: 63babc8a4daf0804ab11e746c1a71a16, type: 3}
+    singularForm: der Schreibtisch
+    secondarySingularForm: 
+    pluralForm: die Schreibtische
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 4626ac220d3315142ae4b063ead06d96, type: 3}
+    singularForm: der Fernseher
+    secondarySingularForm: 
+    pluralForm: die Fernseher
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7890214db0fd390449e36761aa26c2e9, type: 3}
+    singularForm: die Wohngemeinschaft
+    secondarySingularForm: die WG
+    pluralForm: die Wohngemeinschaften
+    secondaryPluralForm: die WGs
+  - image: {fileID: 21300000, guid: e2c25dee0f56a4e40be82168b961bd47, type: 3}
+    singularForm: der Sessel
+    secondarySingularForm: 
+    pluralForm: die Sessel
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3396eb996bc7ba240a57f21920e1b9c1, type: 3}
+    singularForm: der Film
+    secondarySingularForm: 
+    pluralForm: die Filme
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: cc1921705e6b9a4449c31b30046b791e, type: 3}
+    singularForm: die Party
+    secondarySingularForm: 
+    pluralForm: die Partys
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d709695c02acf5d42b58835538b35b24, type: 3}
+    singularForm: das Schlafzimmer
+    secondarySingularForm: 
+    pluralForm: die Schlafzimmer
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 77d0036c153cb894e8001d08bc11b605, type: 3}
+    singularForm: der Flur
+    secondarySingularForm: 
+    pluralForm: die Flure
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3f0a653c8fd441746929e558a54023cd, type: 3}
+    singularForm: "das M\xF6bel"
+    secondarySingularForm: 
+    pluralForm: "die M\xF6bel"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 0b6099035d53f6d4d8fe3844d87b3a50, type: 3}
+    singularForm: "das B\xFCcherregal"
+    secondarySingularForm: 
+    pluralForm: "die B\xFCcherregale"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 92a47b5bd06c7d44bb9d8fd83c32b4ce, type: 3}
+    singularForm: der Schrank
+    secondarySingularForm: 
+    pluralForm: "die Schr\xE4nke"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: aa25183ac30c7e842881c4fa4f106d30, type: 3}
+    singularForm: die Kommode
+    secondarySingularForm: 
+    pluralForm: die Kommoden
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1f0f324c70e4c2441a932e7c7e233572, type: 3}
+    singularForm: der Herd
+    secondarySingularForm: 
+    pluralForm: die Herde
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b31d3030cfb90e34fac481a40b522156, type: 3}
+    singularForm: "der K\xFChlschrank"
+    secondarySingularForm: 
+    pluralForm: "die K\xFChlschr\xE4nke"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b187f0bec26edf345ae80298bc12ee06, type: 3}
+    singularForm: "die Sp\xFCle"
+    secondarySingularForm: 
+    pluralForm: "die Sp\xFClen"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 63a7d9092852cd3428abb20b0a7f5250, type: 3}
+    singularForm: "die K\xFCchenuhr"
+    secondarySingularForm: 
+    pluralForm: "die K\xFCchenuhren"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 135c7d8f8451f1442ad54c6c8e27fcc7, type: 3}
+    singularForm: die Katze
+    secondarySingularForm: 
+    pluralForm: die Katzen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c2f64ced17869a24d915b2b8befdb840, type: 3}
+    singularForm: die Zeitung
+    secondarySingularForm: 
+    pluralForm: die Zeitungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 5546089601fa2ec479d9210600723285, type: 3}
+    singularForm: das Tiny House
+    secondarySingularForm: 
+    pluralForm: die Tiny Houses
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 87a448fdcbb386a469aeed5b0cfad775, type: 3}
+    singularForm: der Trend
+    secondarySingularForm: 
+    pluralForm: die Trends
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 8e27b7aab641e09459f6f1592e554b99, type: 3}
+    singularForm: 
+    secondarySingularForm: 
+    pluralForm: "die Gro\xDFeltern"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 44e8e68823a7c3249817642556899429, type: 3}
+    singularForm: der Onkel
+    secondarySingularForm: 
+    pluralForm: die Onkel
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f6b8bb63b98548546a247b68a9302fea, type: 3}
+    singularForm: die Tante
+    secondarySingularForm: 
+    pluralForm: die Tanten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 34e74f8e4605e89429ce3f392c3a6d74, type: 3}
+    singularForm: 
+    secondarySingularForm: 
+    pluralForm: die Eltern
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 66654ef10f5040f41932e56e200d1f86, type: 3}
+    singularForm: die Schwester
+    secondarySingularForm: 
+    pluralForm: die Schwestern
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 405145b60f4bec841a516f412c2e8905, type: 3}
+    singularForm: der Bruder
+    secondarySingularForm: 
+    pluralForm: "die Br\xFCder"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: fd788af04f36c9b42a5d4d49e352b6aa, type: 3}
+    singularForm: der Cousin
+    secondarySingularForm: die Cousine
+    pluralForm: die Cousins
+    secondaryPluralForm: die Cousinen
+  - image: {fileID: 21300000, guid: 1c97c02eb7f7d344289ebc0929fb9f3b, type: 3}
+    singularForm: der Sohn
+    secondarySingularForm: 
+    pluralForm: "die S\xF6hne"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: bcab1702c01e7124abee72e2392832ad, type: 3}
+    singularForm: die Nichte
+    secondarySingularForm: 
+    pluralForm: die Nichten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 96e1483d591a8854da5d266573d0c585, type: 3}
+    singularForm: der Neffe
+    secondarySingularForm: 
+    pluralForm: die Neffen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b988942447f5d284193f519234d2e95b, type: 3}
+    singularForm: das Alter
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: da9681a54dff26d40bfb75aaa677f0b6, type: 3}
+    singularForm: 
+    secondarySingularForm: 
+    pluralForm: die Geschwister
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b5b7cce71b571de449da33b280f4f46e, type: 3}
+    singularForm: der Familienstand
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1a051b66e5117a04aa78c91e3f44a6e9, type: 3}
+    singularForm: das Kind
+    secondarySingularForm: 
+    pluralForm: die Kinder
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 90735029bebedac4f89bf468a82accb7, type: 3}
+    singularForm: die Enkelin
+    secondarySingularForm: das Enkelkind
+    pluralForm: die Enkelinnen
+    secondaryPluralForm: die Enkelkinder
+  - image: {fileID: 21300000, guid: 557371ab1a50c6540862e4f7bd47f723, type: 3}
+    singularForm: der Enkel
+    secondarySingularForm: das Enkelkind
+    pluralForm: die Enkel
+    secondaryPluralForm: die Enkelkinder
+  - image: {fileID: 21300000, guid: df9c83e82e883d043a3609b52abbae0e, type: 3}
+    singularForm: der Vater
+    secondarySingularForm: 
+    pluralForm: "die V\xE4ter"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6b1bc024ea496784d9e2cf7d7262dbe6, type: 3}
+    singularForm: der Urenkel
+    secondarySingularForm: die Urenkelin
+    pluralForm: die Urenkel
+    secondaryPluralForm: die Urenkelinnen
+  - image: {fileID: 21300000, guid: 1444b4795d5d7e345adcd2a1bb7db813, type: 3}
+    singularForm: "die Gro\xDFmutter"
+    secondarySingularForm: 
+    pluralForm: "die Gro\xDFm\xFCtter"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b0215fbf0db8dc1488c7e8bf49c5735c, type: 3}
+    singularForm: "die B\xE4ckerei"
+    secondarySingularForm: 
+    pluralForm: "die B\xE4ckereien"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f7d31346a7a358440927b0071878c2e1, type: 3}
+    singularForm: die Generation
+    secondarySingularForm: 
+    pluralForm: die Generationen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 98182140060d41946943740caba1a9e0, type: 3}
+    singularForm: der Beruf
+    secondarySingularForm: 
+    pluralForm: die Berufe
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6b3670f06b1572f498234c2c218b05a9, type: 3}
+    singularForm: "der Gro\xDFvater"
+    secondarySingularForm: 
+    pluralForm: "die Gro\xDFv\xE4ter"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6ee69e5fb5cc3db49983c11b9ffaad28, type: 3}
+    singularForm: "die Gro\xDFb\xE4ckerei"
+    secondarySingularForm: 
+    pluralForm: "die Gro\xDFb\xE4ckereien"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 272f19abe3468fb47aee198642ce14df, type: 3}
+    singularForm: der Betrieb
+    secondarySingularForm: 
+    pluralForm: die Betriebe
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 161aaa4534a8417439c8ce4da619ec6b, type: 3}
+    singularForm: der Backshop
+    secondarySingularForm: 
+    pluralForm: die Backshops
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 32c9b26202122b34abfddb062d4b4571, type: 3}
+    singularForm: der Angestellte
+    secondarySingularForm: die Angestellte
+    pluralForm: die Angestellten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c5a0b2d37a936d345bcc7ef82f6a8b65, type: 3}
+    singularForm: das Erfolgsrezept
+    secondarySingularForm: 
+    pluralForm: die Erfolgsrezepte
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 363c6a5d9758b0f49927ed8f0e3ab38b, type: 3}
+    singularForm: die Familie
+    secondarySingularForm: 
+    pluralForm: die Familien
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 795b00756f566ac4ebe70ca2f88a7049, type: 3}
+    singularForm: der Bankkaufmann
+    secondarySingularForm: die Bankkauffrau
+    pluralForm: "die Bankkaufm\xE4nner"
+    secondaryPluralForm: die Bankkauffrauen
+  - image: {fileID: 21300000, guid: f194d567bc999514d975e3ac12957313, type: 3}
+    singularForm: der Blogger
+    secondarySingularForm: die Bloggerin
+    pluralForm: die Blogger
+    secondaryPluralForm: die Bloggerinnen
+  - image: {fileID: 21300000, guid: 59443b3364ff12c4d8d6afaaa6bf09d1, type: 3}
+    singularForm: die Mutter
+    secondarySingularForm: 
+    pluralForm: "die M\xFCtter"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a7dd128761bbaef4cb52b6ffc383edf3, type: 3}
+    singularForm: der Job
+    secondarySingularForm: 
+    pluralForm: die Jobs
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a1fe82d56f3bd214aaec7e5bfaa14b0b, type: 3}
+    singularForm: der Kaffeeklatsch
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: fce2522f2dd5057429609fbedb1a1523, type: 3}
+    singularForm: der Haushalt
+    secondarySingularForm: 
+    pluralForm: die Haushalte
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 28593ccce9ed2e14fa0ada377e105c66, type: 3}
+    singularForm: die Oma
+    secondarySingularForm: 
+    pluralForm: die Omas
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 120add6dac8f5fe4d986e86c37a4a35e, type: 3}
+    singularForm: die Mutti
+    secondarySingularForm: die Mama
+    pluralForm: die Muttis
+    secondaryPluralForm: die Mamas
+  - image: {fileID: 21300000, guid: 3172e98d5198dc34a82d9848c08ff6aa, type: 3}
+    singularForm: der Papa
+    secondarySingularForm: der Papi
+    pluralForm: die Papas
+    secondaryPluralForm: die Papis
+  - image: {fileID: 21300000, guid: 4dedb34d369f31f40924dbec66aa4ab3, type: 3}
+    singularForm: der Opa
+    secondarySingularForm: 
+    pluralForm: die Opas
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 67cc5531ec8c0b8418457aa3f99480ee, type: 3}
+    singularForm: der Check
+    secondarySingularForm: 
+    pluralForm: die Checks
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: efc65d4b0b416d045a3d908368dbe92a, type: 3}
+    singularForm: der Automobilkaufmann
+    secondarySingularForm: die Automobilkauffrau
+    pluralForm: die Automobilkaufleute
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6fccf97999999e1459dadf18857326bb, type: 3}
+    singularForm: der Mechatroniker
+    secondarySingularForm: die Mechatronikerin
+    pluralForm: die Mechatroniker
+    secondaryPluralForm: die Mechatronikerinnen
+  - image: {fileID: 21300000, guid: 12eb8efce7b42354584a1b06fc048592, type: 3}
+    singularForm: die Werkstatt
+    secondarySingularForm: 
+    pluralForm: "die Werkst\xE4tten"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a276be1f7f6b5484e95a472f33c5540f, type: 3}
+    singularForm: der Informatikkaufmann
+    secondarySingularForm: die Informatikkauffrau
+    pluralForm: "die Informatikkaufm\xE4nner"
+    secondaryPluralForm: die Informatikkauffrauen
+  - image: {fileID: 21300000, guid: 5d9af610368fb1242834e77b8933e4c0, type: 3}
+    singularForm: die Ausbildung
+    secondarySingularForm: 
+    pluralForm: die Ausbildungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 8c36d22b0ffe4bf4ea8ec5b9a4b467fc, type: 3}
+    singularForm: der Leserbrief
+    secondarySingularForm: 
+    pluralForm: die Leserbriefe
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c3a4da9a5ec742c42bca455a85fd9844, type: 3}
+    singularForm: das Treffen
+    secondarySingularForm: 
+    pluralForm: die Treffen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 83f0edcbf7982c644817175eca5487e0, type: 3}
+    singularForm: die Redaktion
+    secondarySingularForm: 
+    pluralForm: die Redaktionen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1aaeb7174f71ef043b152972967e4267, type: 3}
+    singularForm: der Journalist
+    secondarySingularForm: die Journalistin
+    pluralForm: die Journalisten
+    secondaryPluralForm: die Journalistinnen
+  - image: {fileID: 21300000, guid: eaa087e273f2e9b418e509becf7d0b60, type: 3}
+    singularForm: das Interesse
+    secondarySingularForm: 
+    pluralForm: die Interessen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 01e694e4e06edaa439a0f40c1eeb7f49, type: 3}
+    singularForm: der Arbeitsort
+    secondarySingularForm: 
+    pluralForm: die Arbeitsorte
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a45449d576b91f84c91839634c854ae2, type: 3}
+    singularForm: die Person
+    secondarySingularForm: 
+    pluralForm: die Personen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c56b32aafe0a348488e10d9bca17a894, type: 3}
+    singularForm: der Altenpfleger
+    secondarySingularForm: die Altenpflegerin
+    pluralForm: die Altenpfleger
+    secondaryPluralForm: die Altenpflegerinnen
+  - image: {fileID: 21300000, guid: 305560ab284dfd749bce6193fc4a5276, type: 3}
+    singularForm: die Berufsfachschule
+    secondarySingularForm: 
+    pluralForm: die Berufsfachschulen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ace7a59a5f2e5eb4e850db6978c540e1, type: 3}
+    singularForm: das Seniorenheim
+    secondarySingularForm: 
+    pluralForm: die Seniorenheime
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1d612697f402b1340b4d23328242c7cb, type: 3}
+    singularForm: der Senior
+    secondarySingularForm: die Seniorin
+    pluralForm: die Senioren
+    secondaryPluralForm: die Seniorinnen
+  - image: {fileID: 21300000, guid: f467633ef97a55442846ca1902de219e, type: 3}
+    singularForm: "das Fr\xFChst\xFCck"
+    secondarySingularForm: 
+    pluralForm: "die Fr\xFChst\xFCcke"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 877037e269f5483409d41253e75f00e7, type: 3}
+    singularForm: der Arzt
+    secondarySingularForm: "die \xC4rztin"
+    pluralForm: "die \xC4rzte"
+    secondaryPluralForm: "die \xC4rztinnen"
+  - image: {fileID: 21300000, guid: 15b926e4e14399d468a1b413328106a6, type: 3}
+    singularForm: das Medikament
+    secondarySingularForm: 
+    pluralForm: die Medikamente
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c6dc98a958b2df54799a642c639b833b, type: 3}
+    singularForm: die App
+    secondarySingularForm: 
+    pluralForm: die Apps
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f6cbb534a962f2d4fbad5141a88ff550, type: 3}
+    singularForm: das Computerspiel
+    secondarySingularForm: 
+    pluralForm: die Computerspiele
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f3be00755d5e98f4ab179c675ef6e7a5, type: 3}
+    singularForm: der Maurer
+    secondarySingularForm: die Maurerin
+    pluralForm: die Maurer
+    secondaryPluralForm: die Maurerinnen
+  - image: {fileID: 21300000, guid: 39edf357d7d06bb4fa3e27ab80ace6e6, type: 3}
+    singularForm: der Kosmetiker
+    secondarySingularForm: die Kosmetikerin
+    pluralForm: die Kosmetiker
+    secondaryPluralForm: die Kosmetikerinnen
+  - image: {fileID: 21300000, guid: f519a759d8d84cb4a8e9603f3ca13ba2, type: 3}
+    singularForm: der Kosmetiksalon
+    secondarySingularForm: 
+    pluralForm: die Kosmetiksalons
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c035976b447fb194287e697fd722fc0d, type: 3}
+    singularForm: die Baustelle
+    secondarySingularForm: 
+    pluralForm: die Baustellen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3f5bfca0eb4057949b40b6de36349c95, type: 3}
+    singularForm: das Praktikum
+    secondarySingularForm: 
+    pluralForm: die Praktika
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 4894dfed203815b49bc2f88568692167, type: 3}
+    singularForm: die Bewerbung
+    secondarySingularForm: 
+    pluralForm: die Bewerbungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f4cc21aa36c02314e9fa007a0cfe6f73, type: 3}
+    singularForm: der Erfolg
+    secondarySingularForm: 
+    pluralForm: die Erfolge
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 075befa5d1f6adc489e1e7a1e07823d5, type: 3}
+    singularForm: die Berufsschule
+    secondarySingularForm: 
+    pluralForm: die Berufsschulen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 0061222ef42636a49a4cd868fbae382e, type: 3}
+    singularForm: der Stein
+    secondarySingularForm: 
+    pluralForm: die Steine
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9cd7222d364d5e94bbd4792e4dfff340, type: 3}
+    singularForm: der Beton
+    secondarySingularForm: 
+    pluralForm: die Betons
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 2b583c85059e5924f9c086d9326e51db, type: 3}
+    singularForm: das Eisen
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 311d01924e850934384fd18d4a9e8fcb, type: 3}
+    singularForm: die Hilfe
+    secondarySingularForm: 
+    pluralForm: die Hilfen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 442e0bc30288f9343826d024877df893, type: 3}
+    singularForm: die Altenpflege
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 3afdb94446b181344a8c6f230b50ca6e, type: 3}
+    singularForm: der Schichtdienst
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 98a0a1566c0e75549abdd1b8b9b2fabd, type: 3}
+    singularForm: "die Fr\xFChschicht"
+    secondarySingularForm: 
+    pluralForm: "die Fr\xFChschichten"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 0c7f85aaf4a87c441afba30718f8cd0b, type: 3}
+    singularForm: "die Sp\xE4tschicht"
+    secondarySingularForm: 
+    pluralForm: "die Sp\xE4tschichten"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f42731473c1adae409a3d77eb4b57017, type: 3}
+    singularForm: die Nachtschicht
+    secondarySingularForm: 
+    pluralForm: die Nachtschichten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ea0b38482488a9841891be32f0b50ede, type: 3}
+    singularForm: das Ding
+    secondarySingularForm: 
+    pluralForm: die Dinge
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 60446879ad78292449577c0625929ee4, type: 3}
+    singularForm: der Architekt
+    secondarySingularForm: die Architektin
+    pluralForm: die Architekten
+    secondaryPluralForm: die Architektinnen
+  - image: {fileID: 21300000, guid: bd7e69836b9dc964c91155a096f9631f, type: 3}
+    singularForm: der Patient
+    secondarySingularForm: die Patientin
+    pluralForm: die Patienten
+    secondaryPluralForm: die Patientinnen
+  - image: {fileID: 21300000, guid: 8921a0b31e5d5ea4eb32972eb8beb337, type: 3}
+    singularForm: das Autohaus
+    secondarySingularForm: 
+    pluralForm: "die Autoh\xE4user"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7ba8c8b8c52c2bb448c701a0c39a98b7, type: 3}
+    singularForm: das Krankenhaus
+    secondarySingularForm: 
+    pluralForm: "die Krankenh\xE4user"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 0e495395b7d9b374b9594c2c32475372, type: 3}
+    singularForm: "das Planungsb\xFCro"
+    secondarySingularForm: 
+    pluralForm: "die Planungsb\xFCros"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 51ad8621c593b2a41a1de6b78f5f9074, type: 3}
+    singularForm: der Physiotherapeut
+    secondarySingularForm: die Physiotherapeut
+    pluralForm: die Physiotherapeuten
+    secondaryPluralForm: die Physiotherapeutinnen
+  - image: {fileID: 21300000, guid: 6be875ff4f7519a4fabc2d3e9e12cb3d, type: 3}
+    singularForm: der Gymnastik-Kurs
+    secondarySingularForm: 
+    pluralForm: die Gymnastik-Kurse
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 95b2a1912be5cec45af6429188aaa71c, type: 3}
+    singularForm: "die \xDCbung"
+    secondarySingularForm: 
+    pluralForm: "die \xDCbungen"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: fbac81914e38c5f48b4ca38be862613d, type: 3}
+    singularForm: der Kunde
+    secondarySingularForm: die Kundin
+    pluralForm: die Kunden
+    secondaryPluralForm: die Kundinnen
+  - image: {fileID: 21300000, guid: b6be0ebf2cf6bf1408e09f853a44526c, type: 3}
+    singularForm: "der Sch\xFCler"
+    secondarySingularForm: "die Sch\xFClerin"
+    pluralForm: "die Sch\xFCler"
+    secondaryPluralForm: "die Sch\xFClerinnen"
+  - image: {fileID: 21300000, guid: 805d26c2a6f566a4d8bf2bef89775b1d, type: 3}
+    singularForm: das Sportprogramm
+    secondarySingularForm: 
+    pluralForm: die Sportprogramme
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: feefa92670736e04ab936d786676946c, type: 3}
+    singularForm: die Mittagspause
+    secondarySingularForm: 
+    pluralForm: die Mittagspausen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d1aa9112c600f1348a752cfce994e1ac, type: 3}
+    singularForm: der Chef
+    secondarySingularForm: die Chefin
+    pluralForm: die Chefs
+    secondaryPluralForm: die Chefinnen
+  - image: {fileID: 21300000, guid: db1242e0ff3d25e46a3bab2998d48eb6, type: 3}
+    singularForm: "das Gespr\xE4ch"
+    secondarySingularForm: 
+    pluralForm: "die Gespr\xE4che"
+    secondaryPluralForm: 
