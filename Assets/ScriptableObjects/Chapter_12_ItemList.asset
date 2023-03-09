@@ -16,7 +16,7 @@ MonoBehaviour:
   - image: {fileID: 21300000, guid: 9d290b0f47cad2247ae59fb346703577, type: 3}
     singularForm: das Lebensmittel
     secondarySingularForm: 
-    pluralForm: ' die Lebensmittel'
+    pluralForm: die Lebensmittel
     secondaryPluralForm: 
   - image: {fileID: 21300000, guid: d14f584c56ed3d54d8747f57d5c05597, type: 3}
     singularForm: die Nudel
