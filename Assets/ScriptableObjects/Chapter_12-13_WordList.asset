@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e287d9b3b8afde408291466adaff822, type: 3}
+  m_Name: Chapter_12-13_WordList
+  m_EditorClassIdentifier: 
+  items:
+  - english: shop
+    german: shoppen
+  - english: carry, drag
+    german: schleppen
+  - english: (to) home
+    german: nach Hause
+  - english: open
+    german: "ge\xF6ffnet"
+  - english: must, have to
+    german: "m\xFCssen"
+  - english: nothing
+    german: nichts
+  - english: search, look for
+    german: suchen
+  - english: choose, select
+    german: "ausw\xE4hlen"
+  - english: give, specify
+    german: angeben
+  - english: fresh
+    german: frisch
+  - english: still
+    german: naturell
+  - english: quarter
+    german: viertel
+  - english: cost
+    german: kosten
+  - english: this, these
+    german: dieser, dieses, diese
+  - english: wish, want
+    german: "w\xFCnschen"
+  - english: most of all
+    german: am liebsten
+  - english: Indian
+    german: indisch
+  - english: get, receive
+    german: bekommen
+  - english: pour
+    german: "gie\xDFen"
+  - english: fry
+    german: braten
+  - english: cut
+    german: schneiden
+  - english: clean
+    german: putzen
+  - english: to (it)
+    german: dazu
+  - english: stir
+    german: "r\xFChren"
+  - english: some(thing), (a) little
+    german: etwas
+  - english: add
+    german: dazutun
+  - english: first(ly)
+    german: zuerst
+  - english: finally
+    german: zum Schluss
+  - english: slacklining
+    german: slacken
+  - english: elastic
+    german: elastisch
+  - english: wide
+    german: breit
+  - english: run
+    german: laufen
+  - english: control
+    german: kontrollieren
+  - english: practise
+    german: "\xFCben"
+  - english: wear
+    german: tragen
+  - english: white
+    german: "wei\xDF"
+  - english: throw
+    german: werfen
+  - english: want (to)
+    german: wollen
+  - english: intense, intensive
+    german: intensiv
+  - english: "Don\u2019t worry!"
+    german: Keine Sorge!
+  - english: against
+    german: gegen
+  - english: active
+    german: aktiv
+  - english: lazy
+    german: faul
+  - english: present
+    german: "pr\xE4sentieren"
+  - english: box
+    german: boxen
+  - english: swim
+    german: schwimmen
+  - english: immediately, straight away
+    german: gleich
+  - english: have on you, carry
+    german: dabeihaben
+  - english: wait
+    german: warten
+  - english: take a seat
+    german: Platz nehmen
+  - english: call
+    german: rufen
+  - english: pay
+    german: bezahlen
+  - english: happen
+    german: passieren
+  - english: fall (in)
+    german: hinfallen
+  - english: bad
+    german: schlimm
+  - english: pair
+    german: paar
+  - english: bad
+    german: schlecht
+  - english: stay
+    german: bleiben
+  - english: wake up
+    german: aufwachen
+  - english: hurt
+    german: wehtun
+  - english: lie down
+    german: hinlegen (sich)
+  - english: sign somebody off work
+    german: krankschreiben
+  - english: should
+    german: sollen
+  - english: thick, swollen
+    german: dick
+  - english: put up
+    german: hochlegen
+  - english: apply
+    german: auftragen
+  - english: three times
+    german: dreimal
+  - english: evenings
+    german: abends
+  - english: Get well soon!
+    german: Gute Besserung
+  - english: rest, relax
+    german: ausruhen (sich)!
+  - english: six times
+    german: sechsmal
+  - english: next
+    german: "n\xE4chster, n\xE4chstes, n\xE4chste"
+  - english: come back, return
+    german: wiederkommen
+  - english: healthy, well
+    german: gesund
+  - english: tired
+    german: "m\xFCde"
+  - english: go for a walk
+    german: spazieren gehen
+  - english: turn off
+    german: ausmachen
+  - english: especially, particularly
+    german: besonders
+  - english: hot
+    german: "hei\xDF"
+  - english: cold
+    german: kalt
+  - english: quiet
+    german: leise
+  - english: pack
+    german: einpacken
+  - english: right, correct
+    german: richtig
+  - english: take
+    german: mitnehmen
+  - english: put away/aside
+    german: weglegen
+  - english: count
+    german: "z\xE4hlen"

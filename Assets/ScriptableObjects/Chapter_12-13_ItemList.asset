@@ -1,0 +1,726 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac92056a5a3588c45bbc2024846f17aa, type: 3}
+  m_Name: Chapter_12-13_ItemList
+  m_EditorClassIdentifier: 
+  items:
+  - image: {fileID: 21300000, guid: 9d290b0f47cad2247ae59fb346703577, type: 3}
+    singularForm: das Lebensmittel
+    secondarySingularForm: 
+    pluralForm: die Lebensmittel
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d14f584c56ed3d54d8747f57d5c05597, type: 3}
+    singularForm: die Nudel
+    secondarySingularForm: 
+    pluralForm: die Nudeln
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7384af1cf0cee274288bfd26e5bd80f7, type: 3}
+    singularForm: das Obst
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6dc4901dabab46a4da50d6eaa1faa985, type: 3}
+    singularForm: die Wurst
+    secondarySingularForm: 
+    pluralForm: "die W\xFCrste"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b2f402585ca9f1740a60692887475c42, type: 3}
+    singularForm: das Milchprodukt
+    secondarySingularForm: 
+    pluralForm: die Milchprodukte
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9bdd305dab6035c4983b35dc08caa4f5, type: 3}
+    singularForm: das Brot
+    secondarySingularForm: 
+    pluralForm: die Brote
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: fc4b5f4e5a0b74d48944bc9d9286f814, type: 3}
+    singularForm: der Apfel
+    secondarySingularForm: 
+    pluralForm: "die \xC4pfel"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f2ddfaf540ee90a408ce792f05dd27c1, type: 3}
+    singularForm: das Kilo
+    secondarySingularForm: das Kilogramm
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1ff3b6ff4f5ea2a4bb8f61a5d433b531, type: 3}
+    singularForm: die Erdnuss
+    secondarySingularForm: 
+    pluralForm: "die Erdn\xFCsse"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 84c86b58158301e49a49ef8cdab916f5, type: 3}
+    singularForm: das Gramm
+    secondarySingularForm: 
+    pluralForm: die Gramm
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 83cdec95268108a4d891be00272783ba, type: 3}
+    singularForm: die Dose
+    secondarySingularForm: 
+    pluralForm: die Dosen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 5507b62387030914f96ba3ae569b3031, type: 3}
+    singularForm: das Vollkornbrot
+    secondarySingularForm: 
+    pluralForm: die Vollkornbrote
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 32f6a29bdb4814943bbb159cbf0d39be, type: 3}
+    singularForm: die Salami
+    secondarySingularForm: 
+    pluralForm: die Salamis
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 042e075150252014c928528eef3a600b, type: 3}
+    singularForm: die Butter
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ebfaf45956ee28e47924db98e0b393e5, type: 3}
+    singularForm: "das St\xFCck"
+    secondarySingularForm: 
+    pluralForm: "die St\xFCcke"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 946a968466d72294c92248fbdad5d02e, type: 3}
+    singularForm: das Deutschland
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9b50d466f85b05840b26b3af04095124, type: 3}
+    singularForm: die Million
+    secondarySingularForm: 
+    pluralForm: die Millionen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 278c10977d6a63e42b88167389755695, type: 3}
+    singularForm: der Vorteil
+    secondarySingularForm: 
+    pluralForm: die Vorteile
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 04f61ec314fde144eb6519bff297be73, type: 3}
+    singularForm: der Online-Supermarkt
+    secondarySingularForm: 
+    pluralForm: "die Online-Superm\xE4rkte"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 507304c1b8972a447b2bbc01dac0d8dc, type: 3}
+    singularForm: die Foodbox
+    secondarySingularForm: 
+    pluralForm: die Foodboxen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: e9b2d150e38a32b4586644998e6029de, type: 3}
+    singularForm: die Personenanzahl
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 4e8b6c0158a33c24496e63c09501d48d, type: 3}
+    singularForm: die Zutat
+    secondarySingularForm: 
+    pluralForm: die Zutaten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 89b5d4508316337498dd0c4f03f7ea70, type: 3}
+    singularForm: das Gericht
+    secondarySingularForm: 
+    pluralForm: die Gerichte
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 5f9f0517fbf086040917946001caa840, type: 3}
+    singularForm: die Marmelade
+    secondarySingularForm: 
+    pluralForm: die Marmeladen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9797e33893e92e442867199b02061a38, type: 3}
+    singularForm: der Honig
+    secondarySingularForm: 
+    pluralForm: die Honige
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ef90d495733ac2441b6694f6cb8554c9, type: 3}
+    singularForm: der Snack
+    secondarySingularForm: 
+    pluralForm: die Snacks
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6c98d0e907e439a4299de368b15eee9e, type: 3}
+    singularForm: die Packung
+    secondarySingularForm: 
+    pluralForm: die Packungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 243f8ebdb315d494aad05112eb759b9f, type: 3}
+    singularForm: die Paprika
+    secondarySingularForm: 
+    pluralForm: die Paprikas
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 867333846fc60bd4b9a9769058173834, type: 3}
+    singularForm: "die Wei\xDFwurst"
+    secondarySingularForm: 
+    pluralForm: "die Wei\xDFw\xFCrste"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 0a782bd9ff05f584c9c32906491b63ca, type: 3}
+    singularForm: der Liter
+    secondarySingularForm: 
+    pluralForm: die Liter
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 19695277ef21ec446b2c73150156fe1c, type: 3}
+    singularForm: die Flasche
+    secondarySingularForm: 
+    pluralForm: die Flaschen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1571f64b7bfaad64a94b2c3288660956, type: 3}
+    singularForm: die Erdbeermarmelade
+    secondarySingularForm: 
+    pluralForm: die Erdbeermarmeladen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a6dd7ae6b380b1740833201554098fef, type: 3}
+    singularForm: das Glas
+    secondarySingularForm: 
+    pluralForm: "die Gl\xE4ser"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: e0216d1bc96558a4b83a4d4ad82c1483, type: 3}
+    singularForm: die Orange
+    secondarySingularForm: 
+    pluralForm: die Orangen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c040d1869f8499d419227a7627af167c, type: 3}
+    singularForm: die Birne
+    secondarySingularForm: 
+    pluralForm: die Birnen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b566a7ecbc0eda542bb7a726eec4e9d9, type: 3}
+    singularForm: die Feige
+    secondarySingularForm: 
+    pluralForm: die Feigen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 40646cb49bd0a2f4b9784865b3ed1403, type: 3}
+    singularForm: die Weintraube
+    secondarySingularForm: 
+    pluralForm: die Weintrauben
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7bf8388e28ff0b74abe9d633be89806f, type: 3}
+    singularForm: die Mandarine
+    secondarySingularForm: 
+    pluralForm: die Mandarinen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 4cec101349e9bc6469c0b6be13416a6c, type: 3}
+    singularForm: die Zwiebel
+    secondarySingularForm: 
+    pluralForm: die Zwiebeln
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: dfdf94160f0fd8b47ada38f304b9ce0a, type: 3}
+    singularForm: die Mini-Tomate
+    secondarySingularForm: 
+    pluralForm: die Mini-Tomaten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 939f386dab663c54bbaed55ebfddb7a6, type: 3}
+    singularForm: die Gurke
+    secondarySingularForm: 
+    pluralForm: die Gurken
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: e0ad134866ec0704088a67dbabaf7af6, type: 3}
+    singularForm: die Zucchini
+    secondarySingularForm: 
+    pluralForm: die Zucchinis
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 31e9c11cf155b404ba4b26a699bb3f54, type: 3}
+    singularForm: der Pilz
+    secondarySingularForm: 
+    pluralForm: die Pilze
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 0a2ef8e4f918e4e4c85b2efd5e294764, type: 3}
+    singularForm: "die M\xF6hre"
+    secondarySingularForm: 
+    pluralForm: "die M\xF6hren"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: fd75cbf40c999794d84d9a5218f70030, type: 3}
+    singularForm: die Limette
+    secondarySingularForm: 
+    pluralForm: die Limetten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: da2795cfe16d3c5409b4e3cdb29f8fbd, type: 3}
+    singularForm: der Marktstand
+    secondarySingularForm: 
+    pluralForm: "die Marktst\xE4nde"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7478cf40830978f4197ea4591c0f7ce5, type: 3}
+    singularForm: der Wunsch
+    secondarySingularForm: 
+    pluralForm: "die W\xFCnsche"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c31f1e287a1ca9e4daac8709a624e8fa, type: 3}
+    singularForm: "der Verk\xE4ufer"
+    secondarySingularForm: "die Verk\xE4uferin"
+    pluralForm: "die Verk\xE4ufer"
+    secondaryPluralForm: "die Verk\xE4uferinnen"
+  - image: {fileID: 21300000, guid: 676211b6854958b4c8ec01cc98fb76da, type: 3}
+    singularForm: "das Wei\xDFbrot"
+    secondarySingularForm: 
+    pluralForm: "die Wei\xDFbrote"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: e42e1e0a5bbad3042bda253ae9510ca5, type: 3}
+    singularForm: der Gurkensalat
+    secondarySingularForm: 
+    pluralForm: die Gurkensalate
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9c09a6322ada4cf42b852e2916750c82, type: 3}
+    singularForm: der Kopfsalat
+    secondarySingularForm: 
+    pluralForm: die Kopfsalate
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: da63f23bfb53a1d418806df9724db5ef, type: 3}
+    singularForm: der Koch
+    secondarySingularForm: "die K\xF6chin"
+    pluralForm: "die K\xF6che"
+    secondaryPluralForm: " die K\xF6chinnen"
+  - image: {fileID: 21300000, guid: 74344be5af3dbd84b89d1bc828f5d365, type: 3}
+    singularForm: der Kochkurs
+    secondarySingularForm: 
+    pluralForm: die Kochkurse
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 942704c448f944747a73c69c57170fd4, type: 3}
+    singularForm: "die Show-K\xFCche"
+    secondarySingularForm: 
+    pluralForm: "die Showk\xFCchen"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1bb962d57eaadff4399ffce3e6f685f7, type: 3}
+    singularForm: die Tischdekoration
+    secondarySingularForm: 
+    pluralForm: die Tischdekorationen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 599ac4a51b0150545beb4786d186995a, type: 3}
+    singularForm: die Bandnudel
+    secondarySingularForm: 
+    pluralForm: die Bandnudeln
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f4201f4b1ae84004f97bdcd55f37bcac, type: 3}
+    singularForm: die Sahne
+    secondarySingularForm: 
+    pluralForm: die Sahnen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 19cc286d6294a6744be7648d66695ba5, type: 3}
+    singularForm: der Steinpilz
+    secondarySingularForm: 
+    pluralForm: die Steinpilze
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 84e9a753b08f1ae478fc6ffb5bd713a0, type: 3}
+    singularForm: der Pfeffer
+    secondarySingularForm: 
+    pluralForm: die Pfeffer
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c34dfc6ce6bc45343a41ba74a26751c0, type: 3}
+    singularForm: das Salz
+    secondarySingularForm: 
+    pluralForm: die Salze
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 25bf2d7ddc58fe54eaa89c096105f842, type: 3}
+    singularForm: der Bigos
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: db30b95540981e048a2baec0f74cc23b, type: 3}
+    singularForm: der Baum
+    secondarySingularForm: 
+    pluralForm: "die B\xE4ume"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 77577ac23fe28804cb1794fcdf214dbb, type: 3}
+    singularForm: das Band
+    secondarySingularForm: 
+    pluralForm: "die B\xE4nder"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7b32fcf30d3d6bf4397fff676785f595, type: 3}
+    singularForm: die Slackline
+    secondarySingularForm: 
+    pluralForm: die Slacklines
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a35fcc39758a8fb48adf7f6237124a15, type: 3}
+    singularForm: der Zentimeter
+    secondarySingularForm: 
+    pluralForm: die Zentimeter
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 21ee80adb527813439d78546a87d6d7b, type: 3}
+    singularForm: der Sportler
+    secondarySingularForm: die Sportlerin
+    pluralForm: die Sportler
+    secondaryPluralForm: die Sportlerinnen
+  - image: {fileID: 21300000, guid: 2447b2234eda2bb4e8b1ea128e5b4f6b, type: 3}
+    singularForm: der Trick
+    secondarySingularForm: 
+    pluralForm: die Tricks
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f2271b816c854fb4aac465eb114d155d, type: 3}
+    singularForm: der Arm
+    secondarySingularForm: 
+    pluralForm: die Arme
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 792b30161b309ed4f80f04b5f2b04610, type: 3}
+    singularForm: das Bein
+    secondarySingularForm: 
+    pluralForm: die Beine
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 50be2b6b5c97c83448b6cee85411960b, type: 3}
+    singularForm: der Bauch
+    secondarySingularForm: 
+    pluralForm: "die B\xE4uche"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 85bff7f9fd70ecf488e2aa0106477cf0, type: 3}
+    singularForm: "der R\xFCcken"
+    secondarySingularForm: 
+    pluralForm: "die R\xFCcken"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9d419f4e8206af64f9c095390ce27a0f, type: 3}
+    singularForm: "der Spa\xDF"
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 972e9bfa7ab8034489ba42de30899e24, type: 3}
+    singularForm: die Balance
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9d0aa252ea690564ea800cd139459ed0, type: 3}
+    singularForm: die Konzentration
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a0a3297de13585b49ba5776a19deb003, type: 3}
+    singularForm: die Koordination
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 1c61d4e89d38979418a18e71ad29aa4b, type: 3}
+    singularForm: "der L\xE4ufer"
+    secondarySingularForm: "die L\xE4uferin"
+    pluralForm: "die L\xE4ufer"
+    secondaryPluralForm: "die L\xE4uferinnen"
+  - image: {fileID: 21300000, guid: 150fae417dffe4442b17d2a9afdbd95f, type: 3}
+    singularForm: das T-Shirt
+    secondarySingularForm: 
+    pluralForm: die T-Shirts
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: f9878a34b9631e245a7bf4159a08ac4d, type: 3}
+    singularForm: der Zuschauer
+    secondarySingularForm: die Zuschauerin
+    pluralForm: die Zuschauer
+    secondaryPluralForm: die Zuschauerinnen
+  - image: {fileID: 21300000, guid: 3732b2bc7fa10d64dba4b66b435719ea, type: 3}
+    singularForm: die Farbe
+    secondarySingularForm: 
+    pluralForm: die Farben
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7c0e161f82c87fb408f1144a889d5a71, type: 3}
+    singularForm: das Ziel
+    secondarySingularForm: 
+    pluralForm: die Ziele
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ef38f690d1e19084cb486caf98011f95, type: 3}
+    singularForm: das Herz
+    secondarySingularForm: 
+    pluralForm: die Herzen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 0d5ef8b2059bb3d40b5158860f4890a3, type: 3}
+    singularForm: die Lunge
+    secondarySingularForm: 
+    pluralForm: die Lungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 924708418d1f7714c8b3c245767e0787, type: 3}
+    singularForm: die Ballettstange
+    secondarySingularForm: 
+    pluralForm: die Ballettstangen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d8bf5f1775f4e114fbdaed0b833af1c3, type: 3}
+    singularForm: der Fan
+    secondarySingularForm: 
+    pluralForm: die Fans
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7a5e26af73709b94690e67c34a0d6369, type: 3}
+    singularForm: die Bewegung
+    secondarySingularForm: 
+    pluralForm: die Bewegungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: faf577a8f1b67f34bb70c3d1c13ec6da, type: 3}
+    singularForm: der Hals
+    secondarySingularForm: 
+    pluralForm: "die H\xE4lse"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 26006ef80f167bd4c8ab27950795add7, type: 3}
+    singularForm: die Schulter
+    secondarySingularForm: 
+    pluralForm: die Schultern
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 91dfcb71bad9cca4e8b046b2ee124a84, type: 3}
+    singularForm: die Sorge
+    secondarySingularForm: 
+    pluralForm: die Sorgen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 11451c4584145804c90295aec28c3ee8, type: 3}
+    singularForm: die Sportverletzung
+    secondarySingularForm: 
+    pluralForm: die Sportverletzungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 87484f2251b517d4f95d20523ff9a704, type: 3}
+    singularForm: das Eishockey
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 80ec408ed929db94aab76137285d60e2, type: 3}
+    singularForm: "der Fu\xDF"
+    secondarySingularForm: 
+    pluralForm: "die F\xFC\xDFe"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 61b5f8c7905c9a24c9a00df4cd8ca2e5, type: 3}
+    singularForm: der Kopf
+    secondarySingularForm: 
+    pluralForm: "die K\xF6pfe"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 2b9545161744d474a9fc137c8c1ddfd7, type: 3}
+    singularForm: das Knie
+    secondarySingularForm: 
+    pluralForm: die Knie
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b82a6eee3fc59484ab81192c1daf34b8, type: 3}
+    singularForm: die Verletzung
+    secondarySingularForm: 
+    pluralForm: die Verletzungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: c840b0c0423f36a4daaaf835b6aa84da, type: 3}
+    singularForm: der Eishockeyspieler
+    secondarySingularForm: die Eishockeyspielerin
+    pluralForm: die Eishockeyspieler
+    secondaryPluralForm: die Eishockeyspielerinnen
+  - image: {fileID: 21300000, guid: 0dc61670069350645a69044f8ceea508, type: 3}
+    singularForm: der Fitnesstrainer
+    secondarySingularForm: die Fitnesstrainerin
+    pluralForm: die Fitnesstrainer
+    secondaryPluralForm: die Fitnesstrainerinnen
+  - image: {fileID: 21300000, guid: 628e050956d020748b7dd1f051887f17, type: 3}
+    singularForm: die Messe
+    secondarySingularForm: 
+    pluralForm: die Messen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 890dd40c8066c254287bba4d2bd42a91, type: 3}
+    singularForm: die Gesundheit
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 53d8364a87df5e04c95cb642aebd5f08, type: 3}
+    singularForm: der Aussteller
+    secondarySingularForm: die Ausstellerin
+    pluralForm: die Aussteller
+    secondaryPluralForm: die Ausstellerinnen
+  - image: {fileID: 21300000, guid: da15ddf24a712af4dab999383fb26f0b, type: 3}
+    singularForm: das Fitnessprogramm
+    secondarySingularForm: 
+    pluralForm: die Fitnessprogramme
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 0ebc969e8334b7c49b43539765c3af40, type: 3}
+    singularForm: das Zumba
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 7c2386f6bbe5f87489be6c536125bb09, type: 3}
+    singularForm: der Besucher
+    secondarySingularForm: die Besucher
+    pluralForm: die Besucher
+    secondaryPluralForm: die Besucherinnen
+  - image: {fileID: 21300000, guid: 2aeb5a47dbfbf2e4db4c9805c38ce619, type: 3}
+    singularForm: die Chipkarte
+    secondarySingularForm: die E-Card
+    pluralForm: die Chipkarten
+    secondaryPluralForm: die E-Cards
+  - image: {fileID: 21300000, guid: d43a7e3fa8c58cb4782b9176788626c9, type: 3}
+    singularForm: das Wartezimmer
+    secondarySingularForm: 
+    pluralForm: die Wartezimmer
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 84ded9b972f2c06428d963c1ffebac9e, type: 3}
+    singularForm: die Krankenversicherung
+    secondarySingularForm: 
+    pluralForm: die Krankenversicherungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 4ffea3b30b60ab046910da11ab57f4e3, type: 3}
+    singularForm: die Arztkosten
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 670db1a5402fa3641b7f2b745ba53f8b, type: 3}
+    singularForm: der Versicherte
+    secondarySingularForm: die Versicherte
+    pluralForm: die Versicherten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 021ad2012b034b3439c6df3ff005b610, type: 3}
+    singularForm: die Gesundheitskarte
+    secondarySingularForm: die Versichertenkarte
+    pluralForm: die Gesundheitskarten
+    secondaryPluralForm: die Versichertenkarten
+  - image: {fileID: 21300000, guid: e78f01b2195d4814691ea1c018becb62, type: 3}
+    singularForm: die Apotheke
+    secondarySingularForm: 
+    pluralForm: die Apotheken
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 234fc19c7cdfc1b46be7ccd4092e6b80, type: 3}
+    singularForm: das Skateboard
+    secondarySingularForm: 
+    pluralForm: die Skateboards
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d85040198928604428645f3174b43ae1, type: 3}
+    singularForm: der Unfall
+    secondarySingularForm: 
+    pluralForm: "die Unf\xE4lle"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 09396e0b831caa04cb19fa5bd3e3f6eb, type: 3}
+    singularForm: der Schritt
+    secondarySingularForm: 
+    pluralForm: die Schritte
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d4d6c8f334fc9604696b5fc075670c8e, type: 3}
+    singularForm: die Verstauchung
+    secondarySingularForm: 
+    pluralForm: Verstauchungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 40c3107481940774a932b728a06ee840, type: 3}
+    singularForm: die Sportsalbe
+    secondarySingularForm: die Salbe
+    pluralForm: die Sportsalben
+    secondaryPluralForm: die Salbe
+  - image: {fileID: 21300000, guid: 6b433d2f52b0bf845b500908328da3ef, type: 3}
+    singularForm: die Tablette
+    secondarySingularForm: 
+    pluralForm: die Tabletten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 45e5e0559372fe4419ab24855899d8bd, type: 3}
+    singularForm: der Schmerz
+    secondarySingularForm: 
+    pluralForm: die Schmerzen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 204115422fbb9aa4d805008399e7cf16, type: 3}
+    singularForm: 
+    secondarySingularForm: 
+    pluralForm: die Kopfschmerzen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: a96df84fd48d1c24284ca04acc787b24, type: 3}
+    singularForm: 
+    secondarySingularForm: 
+    pluralForm: die Halsschmerzen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 453599b475587d041aee49d3e188a544, type: 3}
+    singularForm: der Husten
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 9e5986d7c0c6021418e32daeaaec2fb1, type: 3}
+    singularForm: die Halstablette
+    secondarySingularForm: 
+    pluralForm: die Halstabletten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: e072de581d3d5304b9757cf8bf706afb, type: 3}
+    singularForm: der Hustensaft
+    secondarySingularForm: 
+    pluralForm: "die Hustens\xE4fte"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: e9a9597c74233f74c948aea77da621aa, type: 3}
+    singularForm: das Handball
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 2b63db7caabad4a4d845105cdbbe6eaa, type: 3}
+    singularForm: "der Anf\xE4nger"
+    secondarySingularForm: "die Anf\xE4ngerin"
+    pluralForm: "die Anf\xE4nger"
+    secondaryPluralForm: "die Anf\xE4ngerinnen"
+  - image: {fileID: 21300000, guid: 77e41fd117532234798b919ded1bca71, type: 3}
+    singularForm: der Profi
+    secondarySingularForm: 
+    pluralForm: die Profis
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 58373511709881349bad62b55da1d815, type: 3}
+    singularForm: die Entspannung
+    secondarySingularForm: 
+    pluralForm: die Entspannungen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 84c922bb7958f7e488d9da7c91f6e651, type: 3}
+    singularForm: "die Ern\xE4hrung"
+    secondarySingularForm: 
+    pluralForm: "die Ern\xE4hrungen"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 480a6548fef351b4f90afbaa9d6e62d5, type: 3}
+    singularForm: der Schnupfen
+    secondarySingularForm: "die Erk\xE4ltung"
+    pluralForm: die Schnupfen
+    secondaryPluralForm: "die Erk\xE4ltungun"
+  - image: {fileID: 21300000, guid: 582bea494f89d6549a471f8c31ec0ebd, type: 3}
+    singularForm: die Sauna
+    secondarySingularForm: 
+    pluralForm: die Saunas
+    secondaryPluralForm: die Saunen
+  - image: {fileID: 21300000, guid: 911ad827456406a4c80ff1ff7cb1cceb, type: 3}
+    singularForm: "der K\xF6rper"
+    secondarySingularForm: 
+    pluralForm: "die K\xF6rper"
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 74a21d66e50bacf4bbbda45aa18598e3, type: 3}
+    singularForm: das Immunsystem
+    secondarySingularForm: 
+    pluralForm: die Immunsysteme
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 536ab0eb222e7fd4d9e491d97c5d78c0, type: 3}
+    singularForm: die Hauptsache
+    secondarySingularForm: 
+    pluralForm: die Hauptsachen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: b6ae0d6be9bd03b4aafeb53793c16874, type: 3}
+    singularForm: die Energie
+    secondarySingularForm: 
+    pluralForm: die Energien
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: ecb5dce11b8b8624b9837a774e0a31be, type: 3}
+    singularForm: die Nase
+    secondarySingularForm: 
+    pluralForm: die Nasen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 0bd3a726912986b4d85fe635d7d5a13e, type: 3}
+    singularForm: der Brokkoli
+    secondarySingularForm: 
+    pluralForm: die Brokkolis
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: d0a6a7df7d9e4e3448aa73c1e838745a, type: 3}
+    singularForm: das Vitamin
+    secondarySingularForm: 
+    pluralForm: die Vitamine
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 05ad665aa4eb7f546aac68f7704ef0af, type: 3}
+    singularForm: die Sportart
+    secondarySingularForm: 
+    pluralForm: die Sportarten
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 42726ac9200022b4b936d50fd81790db, type: 3}
+    singularForm: 
+    secondarySingularForm: 
+    pluralForm: die Sportsachen
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: 6ab1297e4638dc446b5e0c5b533caed9, type: 3}
+    singularForm: der Sportkurs
+    secondarySingularForm: 
+    pluralForm: die Sportkurse
+    secondaryPluralForm: 
+  - image: {fileID: 21300000, guid: abf0c5cc78e1c4a40832714d7fdefadd, type: 3}
+    singularForm: das Ballett
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  excludedItems:
+  - image: {fileID: 0}
+    singularForm: der Trendsport
+    secondarySingularForm: 
+    pluralForm: 
+    secondaryPluralForm: 
+  - image: {fileID: 0}
+    singularForm: "die Trainingsm\xF6glichkeit"
+    secondarySingularForm: 
+    pluralForm: "die Trainingsm\xF6glichkeiten"
+    secondaryPluralForm: 
+  - image: {fileID: 0}
+    singularForm: der Sporttermin
+    secondarySingularForm: 
+    pluralForm: die Sporttermine
+    secondaryPluralForm: 

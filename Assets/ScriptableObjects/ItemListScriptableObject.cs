@@ -35,5 +35,5 @@ public struct Item
 [CreateAssetMenu(fileName = "ItemList", menuName = "ScriptableObjects/ItemListScriptableObject")]
 public class ItemListScriptableObject : AnswerListScriptableObject<Item>
 {
-
+    public Item[] excludedItems;
 }
