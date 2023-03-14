@@ -272,7 +272,7 @@ MonoBehaviour:
     singularForm: der Koch
     secondarySingularForm: "die K\xF6chin"
     pluralForm: "die K\xF6che"
-    secondaryPluralForm: " die K\xF6chinnen"
+    secondaryPluralForm: "die K\xF6chinnen"
   - image: {fileID: 21300000, guid: 74344be5af3dbd84b89d1bc828f5d365, type: 3}
     singularForm: der Kochkurs
     secondarySingularForm: 
@@ -520,7 +520,7 @@ MonoBehaviour:
     secondaryPluralForm: 
   - image: {fileID: 21300000, guid: 7c2386f6bbe5f87489be6c536125bb09, type: 3}
     singularForm: der Besucher
-    secondarySingularForm: die Besucher
+    secondarySingularForm: die Besucherin
     pluralForm: die Besucher
     secondaryPluralForm: die Besucherinnen
   - image: {fileID: 21300000, guid: 2aeb5a47dbfbf2e4db4c9805c38ce619, type: 3}
@@ -576,13 +576,13 @@ MonoBehaviour:
   - image: {fileID: 21300000, guid: d4d6c8f334fc9604696b5fc075670c8e, type: 3}
     singularForm: die Verstauchung
     secondarySingularForm: 
-    pluralForm: Verstauchungen
+    pluralForm: die Verstauchungen
     secondaryPluralForm: 
   - image: {fileID: 21300000, guid: 40c3107481940774a932b728a06ee840, type: 3}
     singularForm: die Sportsalbe
     secondarySingularForm: die Salbe
     pluralForm: die Sportsalben
-    secondaryPluralForm: die Salbe
+    secondaryPluralForm: die Salben
   - image: {fileID: 21300000, guid: 6b433d2f52b0bf845b500908328da3ef, type: 3}
     singularForm: die Tablette
     secondarySingularForm: 

@@ -91,7 +91,7 @@ MonoBehaviour:
     german: wollen
   - english: intense, intensive
     german: intensiv
-  - english: "Don\u2019t worry!"
+  - english: Don't worry!
     german: Keine Sorge!
   - english: against
     german: gegen
@@ -150,9 +150,9 @@ MonoBehaviour:
   - english: evenings
     german: abends
   - english: Get well soon!
-    german: Gute Besserung
+    german: Gute Besserung!
   - english: rest, relax
-    german: ausruhen (sich)!
+    german: ausruhen (sich)
   - english: six times
     german: sechsmal
   - english: next
